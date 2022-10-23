@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/aepp_y__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 ### Available use programs-Skills
-<img src="https://img.shields.io/badge/C++-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/></a><img src="https://img.shields.io/badge/Java Script-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/></a>
 
 <!--
 **carrier1269/carrier1269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
