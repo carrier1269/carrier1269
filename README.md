@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm robot engineering developer.
+### 👋 Hi there! I'm robot engineering developer. 👋
        
 ### Here's my projects and codes.
 
@@ -19,7 +19,7 @@
 ### Document Editor Skills
 <img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?style=flat&logo=Microsoft PowerPoint&logoColor=white"/></a> <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat&logo=Microsoft Excel&logoColor=white"/></a> <img src="https://img.shields.io/badge/한글 Hwp-2196F3?style=flat&logo=Windows Terminal&logoColor=white"/></a>
 
-### 🏆 Prizes
+### 🏆 Prizes 🏆
 <img src="https://img.shields.io/badge/University Tournament - Grand Prize 1-1857B6A?style=flat&logo=Google Scholar&logoColor=white"/></a> <img src="https://img.shields.io/badge/National Tournament - Gold Prize 1-B7472A?style=flat&logo=Material Design Icons&logoColor=white"/></a>
 
 <!--
