@@ -20,8 +20,7 @@
 <img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?style=flat&logo=Microsoft PowerPoint&logoColor=white"/></a> <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat&logo=Microsoft Excel&logoColor=white"/></a> <img src="https://img.shields.io/badge/한글 Hwp-2196F3?style=flat&logo=Windows Terminal&logoColor=white"/></a>
 
 ### Prizes
-<img src="https://img.shields.io/badge/-B7472A?style=for-the-badge&logo=Trino&logoColor=white"/></a>
-
+<img src="https://img.shields.io/badge/University Grand Prize 1-1857B6A?style=flat&logo=Google Scholar&logoColor=white"/></a>
 
 <!--
 **carrier1269/carrier1269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
