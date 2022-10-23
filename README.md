@@ -7,8 +7,8 @@
 
 <a href="https://www.instagram.com/aepp_y__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
-### Core Skills
 ![image](https://user-images.githubusercontent.com/58325946/197395899-c59e0290-6192-40a8-9edf-9c1bacc3fe06.png)
+### Core Skills
 
 <img src="https://img.shields.io/badge/C++-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/></a> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white"/></a> <img src="https://img.shields.io/badge/NVIDIA Jetson-76B900?style=flat&logo=NVIDIA&logoColor=white"/></a> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></a> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/></a> <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor=white"/></a> <img src="https://img.shields.io/badge/MIT App Inventor-3DDC84?style=flat&logo=Android&logoColor=white"/></a> <img src="https://img.shields.io/badge/Embedded System-0078D6?style=flat&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Iot-00B0D8?style=flat&logo=Probot&logoColor=white"/></a>
 
