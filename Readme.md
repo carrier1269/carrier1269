@@ -30,7 +30,7 @@
 
 ### 2015 ~ 2022 Projects
 
-<![패널](https://user-images.githubusercontent.com/58325946/197396282-33f736e2-35e2-4cde-aefc-603ad054bf1a.png)width="40%">
+![패널](https://user-images.githubusercontent.com/58325946/197396282-33f736e2-35e2-4cde-aefc-603ad054bf1a.png){: width="100" height="100"}
 
 ![image](https://user-images.githubusercontent.com/58325946/197396994-e233829c-1d2d-4c50-ab32-8fc99bf3f202.png)
 
