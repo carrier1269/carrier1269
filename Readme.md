@@ -23,7 +23,7 @@
 ### 🏆 Prizes 🏆
 <img src="https://img.shields.io/badge/University Tournament - Grand Prize 1-1857B6A?style=flat&logo=Google Scholar&logoColor=white"/></a> <img src="https://img.shields.io/badge/National Tournament - Gold Prize 1-B7472A?style=flat&logo=Material Design Icons&logoColor=white"/></a>
 
-![image](https://user-images.githubusercontent.com/58325946/197397494-8d97f020-ec5e-4a1f-8e71-aac1f22a864b.png)
+![image](https://user-images.githubusercontent.com/58325946/197397554-435d914e-2857-4400-8175-a7fb442ebd06.png)
 
 ![메이커톤 금상](https://user-images.githubusercontent.com/58325946/197397507-78547208-4557-4a81-88d0-ade1746f7740.jpg)
 
