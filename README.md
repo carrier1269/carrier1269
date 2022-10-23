@@ -3,9 +3,11 @@
 ### Here's my projects and codes.
 
 
-### My SNS
+### My SNS Channel
 
 <a href="https://www.instagram.com/aepp_y__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+
+### Available use programs-Skills
 
 <!--
 **carrier1269/carrier1269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
