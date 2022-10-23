@@ -1,5 +1,7 @@
-### Hi there 👋
-<img src="https://img.shields.io/badge/My SNS-179C7D?&logo=CodeProject&logoColor=white"/></a> ### My SNS
+### 👋 Hi there! I'm robot engineering developer.
+       
+       You can see my all projects and codes.
+### My SNS
 
 <a href="https://www.instagram.com/aepp_y__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
