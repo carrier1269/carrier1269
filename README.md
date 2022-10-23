@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.instagram.com/aepp_y__/" target="_blank"><img src="https://img.shields.io/badge/#E4405F?style=for-the-badge&logo=appveyor&logoColor=로고색상"/></a>
+<a href="https://www.instagram.com/aepp_y__/" target="_blank"><img src="https://img.shields.io/badge/#E4405F?style=for-the-badge&logo=appveyor&logoColor=#000000"/></a>
 
 <!--
 **carrier1269/carrier1269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
