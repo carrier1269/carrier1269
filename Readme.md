@@ -22,8 +22,6 @@
 
 ### 🏆 Prizes 🏆
 <img src="https://img.shields.io/badge/University Tournament - Grand Prize 1-1857B6A?style=flat&logo=Google Scholar&logoColor=white"/></a> <img src="https://img.shields.io/badge/National Tournament - Gold Prize 1-B7472A?style=flat&logo=Material Design Icons&logoColor=white"/></a>
-### University Capstone Design Tournament No.0 Grand Prize
-### Gyeonggi-do Maker Hackathon No.1 Gold Prize
 
 <!--
 **carrier1269/carrier1269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
