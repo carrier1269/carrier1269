@@ -27,7 +27,9 @@
 
 ### 2015 ~ 2022 Projects
 
-<img src="(https://user-images.githubusercontent.com/58325946/197396282-33f736e2-35e2-4cde-aefc-603ad054bf1a.png" width="300" height="300"/> <img src="https://user-images.githubusercontent.com/58325946/197396994-e233829c-1d2d-4c50-ab32-8fc99bf3f202.png" width="300" height="300"/> <img src="https://user-images.githubusercontent.com/58325946/197396455-e48c8fda-d20e-4c8d-8ac0-1c0a69366bdc.png" width="300" height="300"/>
+<img src="(https://user-images.githubusercontent.com/58325946/197396282-33f736e2-35e2-4cde-aefc-603ad054bf1a.png" width="100%" height="100%"/> 
+
+<img src="https://user-images.githubusercontent.com/58325946/197396994-e233829c-1d2d-4c50-ab32-8fc99bf3f202.png" width="300" height="300"/> <img src="https://user-images.githubusercontent.com/58325946/197396455-e48c8fda-d20e-4c8d-8ac0-1c0a69366bdc.png" width="300" height="300"/>
 
 <img src="https://user-images.githubusercontent.com/58325946/197397127-2a1b83e5-734f-4b75-b179-8dcce1185850.png" width="300" height="300"/> <img src="https://user-images.githubusercontent.com/58325946/197397133-f465182f-8886-4c71-91dc-f2c1b53434fc.png" width="300" height="300"/> <img src="https://user-images.githubusercontent.com/58325946/197397165-de6341d4-5f05-447d-86f2-399c4e1357ea.png" width="300" height="300"/>
 
