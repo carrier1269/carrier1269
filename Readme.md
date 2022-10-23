@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/University Tournament - Grand Prize 1-1857B6A?style=flat&logo=Google Scholar&logoColor=white"/></a> <img src="https://img.shields.io/badge/National Tournament - Gold Prize 1-B7472A?style=flat&logo=Material Design Icons&logoColor=white"/></a>
 
 <img src="https://user-images.githubusercontent.com/58325946/197397604-49cc3c55-054a-47c6-8e1d-c321c64a660b.png" width="300" height="300"/> <img src="https://user-images.githubusercontent.com/58325946/197397507-78547208-4557-4a81-88d0-ade1746f7740.jpg" width="300" height="300"/>
--   [University Capstone Design - Iot CatTower](#niversity-Capstone-Design - Iot-CatTower)
+-   [University Capstone Design - Iot CatTower](#University-Capstone-Design - Iot-CatTower)
 -   [Gyeonggi-do Maker Hackathon - Protect BLE App Bicycle Locker from stealing Bicycle](#Gyeonggi-do-Maker-Hackathon - Protect-BLE-App-Bicycle-Locker-from-stealing Bicycle)
 
 ### 2015 ~ 2022 Projects
