@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm robot engineering developer.
        
-### You can see my projects and codes.
+### Here's my projects and codes.
 
 
 ### My SNS
