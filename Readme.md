@@ -27,10 +27,6 @@
 
 ![image](https://user-images.githubusercontent.com/58325946/197396994-e233829c-1d2d-4c50-ab32-8fc99bf3f202.png)
 
-![제목 없음111](https://user-images.githubusercontent.com/58325946/197397081-84643973-21ce-48be-bd03-5dd1c8c77b51.png)
-
-![image](https://user-images.githubusercontent.com/58325946/197396439-369b5c22-a0cd-42bb-8b53-d6216fc59706.png)
-
 ![image](https://user-images.githubusercontent.com/58325946/197396455-e48c8fda-d20e-4c8d-8ac0-1c0a69366bdc.png)
 
 ![image](https://user-images.githubusercontent.com/58325946/197397127-2a1b83e5-734f-4b75-b179-8dcce1185850.png)
