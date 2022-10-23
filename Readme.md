@@ -2,7 +2,7 @@
        
 ### Here's my projects and codes.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carrier1269)](https://github.com/carrier1269/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrier1269&layout=compact)](https://github.com/carrier1269/github-readme-stats)
+[![ChoiGain's GitHub stats](https://github-readme-stats.vercel.app/api?username=carrier1269&theme=radical)](https://github.com/carrier1269/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrier1269&layout=compact)](https://github.com/carrier1269/github-readme-stats)
 
 
 ### My SNS Channel
