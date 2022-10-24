@@ -19,7 +19,7 @@
  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/></a> <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=flat&logo=Autodesk&logoColor=white"/></a> <img src="https://img.shields.io/badge/CATIA-1E7B85?style=flat&logo=Dassault Systèmes&logoColor=white"/></a> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/></a> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white"/></a> <img src="https://img.shields.io/badge/NVIDIA Jetson-76B900?style=flat&logo=NVIDIA&logoColor=white"/></a> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></a> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/></a> <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor=white"/></a> <img src="https://img.shields.io/badge/MIT App Inventor-3DDC84?style=flat&logo=Android&logoColor=white"/></a> <img src="https://img.shields.io/badge/Embedded System-0078D6?style=flat&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Iot-00B0D8?style=flat&logo=Probot&logoColor=white"/></a> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
 </a> 
 
-### Document Editor Skills
+### Document Edit Skills
 <img src="https://img.shields.io/badge/Microsoft PowerPoint-B7472A?style=flat&logo=Microsoft PowerPoint&logoColor=white"/></a> <img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat&logo=Microsoft Excel&logoColor=white"/></a> <img src="https://img.shields.io/badge/한글 Hwp-2196F3?style=flat&logo=Windows Terminal&logoColor=white"/></a>
 
 ### 🏆 Awards 🏆
