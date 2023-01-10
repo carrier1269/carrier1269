@@ -5,7 +5,7 @@
 [![최가인's GitHub stats](https://github-readme-stats.vercel.app/api?username=carrier1269&theme=tokyonight&show_icons=true)](https://github.com/carrier1269/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrier1269&layout=compact)](https://github.com/carrier1269/github-readme-stats)
 
 
-### My SNS Channel
+### My SNS Channel 
 
 <a href="https://www.instagram.com/aepp_y__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
