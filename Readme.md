@@ -1,9 +1,7 @@
 ### 👋 Hi there! I'm robot engineering developer. 👋
-       
-### Here's my projects and codes. 
 
-[![최가인's GitHub stats](https://github-readme-stats.vercel.app/api?username=carrier1269&theme=tokyonight&show_icons=true)](https://github.com/carrier1269/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrier1269&layout=compact)](https://github.com/carrier1269/github-readme-stats)
-
+      
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carrier1269&theme=react&line_height=40&hide=css"/> </a>
 
 ### My SNS Channel 
 
