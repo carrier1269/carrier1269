@@ -34,6 +34,16 @@
 -   2022-12 ~ 2023-02     SK텔레콤 AI-TECHLAB FLY AI 2기
 -   2022-11               KINTEX 공학페스티벌 박람회 헬스케어 부스 운영
 -   2019-03 ~             AI 학부연구생
+-   2016-03~ 2017-03      청원고등학교 로봇동아리 부회장
+
+### 👽️ Develop Project For Challenge 👽️ 
+-   2015, 2016 WRO 월드 로봇 올림피아드
+-   2015 FLL 로봇챔피언십
+-   경기콘텐츠진흥원 & 경기문화창조허브 콘텐츠 제조 해커톤(메이커톤)
+-   교내 캡스톤 디자인 경진대회
+-   DL Camera System For Crime Prevention(특허 공개출원)
+-   넥슨 메이플스토리 & 멋쟁이사자처럼 슈퍼해커톤 기획&개발
+-   SK텔레콤 A.(에이닷) Best Photographed Of Human Face Image 자동합성시스템
 
 ### 🏆 Awards 🏆
 #### 2023
