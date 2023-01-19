@@ -42,7 +42,7 @@
 -   경기콘텐츠진흥원 & 경기문화창조허브 콘텐츠 제조 해커톤(메이커톤)
 -   교내 캡스톤 디자인 경진대회
 -   DL Camera System For Crime Prevention(특허 공개출원)
--   넥슨 메이플스토리 & 멋쟁이사자처럼 슈퍼해커톤 기획&개발
+-   넥슨 메이플스토리 & 멋쟁이사자처럼 슈퍼해커톤 Maplestory WORLDS 기획&개발
 -   SK텔레콤 A.(에이닷) Best Photographed Of Human Face Image 자동합성시스템
 
 ### 🏆 Awards 🏆
