@@ -23,7 +23,6 @@
 ### 🏆 Awards 🏆
 <img src="https://img.shields.io/badge/University Tournament - Grand Prize 1-1857B6A?style=flat&logo=Google Scholar&logoColor=white"/></a> <img src="https://img.shields.io/badge/National Tournament - Gold Prize 1-B7472A?style=flat&logo=Material Design Icons&logoColor=white"/></a>
 
-<img src="https://user-images.githubusercontent.com/58325946/197397604-49cc3c55-054a-47c6-8e1d-c321c64a660b.png" width="300" height="300"/> <img src="https://user-images.githubusercontent.com/58325946/197397507-78547208-4557-4a81-88d0-ade1746f7740.jpg" width="300" height="300"/>
 -   2022 캡스톤 디자인 경진대회 대상 - Iot 캣타워
 -   경기도 메이커 해커톤 금상 - 도난 방지 모바일 기기 제어 블루투스 통신 자전거자물쇠
 -   2022 KINTEX 공학 페스티벌 성균관대학교 디지털 헬스케어 동상 
