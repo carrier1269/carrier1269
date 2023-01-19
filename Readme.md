@@ -1,11 +1,11 @@
 ### 👋 Hi! I'm ML/DL Software developer! 👋
 
       
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carrier1269&line_height=40&hide=css"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carrier1269&theme=react&line_height=40&hide=css"/> </a>
 
 #### My SNS 
 
-<a href="https://www.instagram.com/aepp_y__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrier1269&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</a>
 
 #### Core Skills
 
