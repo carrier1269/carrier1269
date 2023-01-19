@@ -6,9 +6,24 @@
 
 <!--END_SECTION:waka-->
 
-### :fire: Computer Skills :fire:
+### :fire: Core Computer Skills :fire:
 
-<img src="https://img.shields.io/badge/C-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/></a> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white"/></a> <img src="https://img.shields.io/badge/NVIDIA Jetson-76B900?style=flat&logo=NVIDIA&logoColor=white"/></a> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></a> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/></a> <img src="https://img.shields.io/badge/MIT App Inventor-3DDC84?style=flat&logo=Android&logoColor=white"/></a> <img src="https://img.shields.io/badge/Embedded System-0078D6?style=flat&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Iot-00B0D8?style=flat&logo=Probot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Windows Terminal-4D4D4D?style=flat&logo=Windows Terminal&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat&logo=Microsoft Azure&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/NVIDIA Jetson-76B900?style=flat&logo=NVIDIA&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Microsoft Office-6264A7?style=flat&logo=Microsoft Office&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MIT App Inventor-3DDC84?style=flat&logo=Android&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Embedded System-0078D6?style=flat&logo=Windows&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Iot-00B0D8?style=flat&logo=Probot&logoColor=white"/></a>
+
 
 ### :rocket: Develop Experience:rocket: 
 -   2023-03 ~             Auto Point Tracking Film System 연구원 
