@@ -9,12 +9,9 @@
 
 <img src="https://img.shields.io/badge/C-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/></a> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white"/></a> <img src="https://img.shields.io/badge/NVIDIA Jetson-76B900?style=flat&logo=NVIDIA&logoColor=white"/></a> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></a> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/></a> <img src="https://img.shields.io/badge/MIT App Inventor-3DDC84?style=flat&logo=Android&logoColor=white"/></a> <img src="https://img.shields.io/badge/Embedded System-0078D6?style=flat&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Iot-00B0D8?style=flat&logo=Probot&logoColor=white"/></a>
 
-
-#### Available Skills
-<img src="https://img.shields.io/badge/C++-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/></a> <img src="https://img.shields.io/badge/Java Script-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/></a> <img src="https://img.shields.io/badge/Lua Script-2C2D72?style=flat&logo=Lua&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/></a> <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=flat&logo=Autodesk&logoColor=white"/></a> <img src="https://img.shields.io/badge/CATIA-1E7B85?style=flat&logo=Dassault Systèmes&logoColor=white"/></a> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/></a> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white"/></a> <img src="https://img.shields.io/badge/NVIDIA Jetson-76B900?style=flat&logo=NVIDIA&logoColor=white"/></a> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></a> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/></a> <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor=white"/></a> <img src="https://img.shields.io/badge/MIT App Inventor-3DDC84?style=flat&logo=Android&logoColor=white"/></a> <img src="https://img.shields.io/badge/Embedded System-0078D6?style=flat&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Iot-00B0D8?style=flat&logo=Probot&logoColor=white"/></a> 
-<!--  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a> -->
-</a> 
+#### Develop Experience
+-   2022-12 ~ 2023-02 SK텔레콤 AI-TECHLAB FLY AI 2기
+-   2019-03 ~ 학과 학부연구생
 
 #### 🏆 Awards 🏆
 -   2022 캡스톤 디자인 경진대회 대상
