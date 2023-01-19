@@ -1,6 +1,5 @@
-<div align=center>
-  
-## :construction_worker: Hi! I'm ML/DL Software developer! :construction_worker:<div align=center>
+
+## :construction_worker: Hi! I'm ML / DL Software developer! :construction_worker:
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrier1269&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</a>
 <!--START_SECTION:waka-->
@@ -29,7 +28,7 @@
 -   교내 학습포트폴리오 우수상
 
 
-</div>
+
 <!--
 **carrier1269/carrier1269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
