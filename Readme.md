@@ -13,7 +13,7 @@
 -   2023-03 ~ ? 업체 연구원
 -   2023-03 ~ 2023-06 Google Development Students Club 2기
 -   2022-12 ~ 2023-02 SK텔레콤 AI-TECHLAB FLY AI 2기
--   2022-11   KINTEX 공학페스티벌 박람회 헬스케어부문 부스 운영
+-   2022-11   KINTEX 공학페스티벌 박람회 헬스케어 부스 운영
 -   2019-03 ~ 학과 학부연구생
 
 #### 🏆 Awards 🏆
