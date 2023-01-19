@@ -38,7 +38,7 @@
 
 ### 👽️ Development Project For Challenge 👽️ 
 -   2015, 2016 WRO 월드 로봇 올림피아드
--   2015 FLL 로봇챔피언십
+-   2015 FLL 로봇챔피언십, 2016 KRC 코리아로봇챔피언십
 -   경기콘텐츠진흥원 & 경기문화창조허브 콘텐츠 제조 해커톤(메이커톤)
 -   교내 캡스톤 디자인 경진대회
 -   DL Camera System For Crime Prevention(특허 공개출원)
