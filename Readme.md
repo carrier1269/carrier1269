@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm robot engineering developer. 👋
+### 👋 Hi! I'm ML/DL Software developer! 👋
 
       
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carrier1269&theme=react&line_height=40&hide=css"/> </a>
