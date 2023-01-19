@@ -19,12 +19,12 @@
 </a> 
 
 #### 🏆 Awards 🏆
-<img src="https://img.shields.io/badge/University Tournament - Grand Prize 1-1857B6A?style=flat&logo=Google Scholar&logoColor=white"/></a> <img src="https://img.shields.io/badge/National Tournament - Gold Prize 1-B7472A?style=flat&logo=Material Design Icons&logoColor=white"/></a>
-
--   2022 캡스톤 디자인 경진대회 대상 - Iot 캣타워
--   경기도 메이커 해커톤 금상 - 도난 방지 모바일 기기 제어 블루투스 통신 자전거자물쇠
+-   2022 캡스톤 디자인 경진대회 대상
+-   2022 캡스톤 디자인 경진대회 일자리본부센터 동상
+-   경기콘텐츠진흥원 & 경기문화창조허브 콘텐츠 + 제조 해커톤(메이커톤) 금상
 -   2022 KINTEX 공학 페스티벌 성균관대학교 디지털 헬스케어 동상 
--   2022 교내 IP발명경진대회 우수상
+-   2022 교내 IP발명경진대회 장려상
+-   2022 교내 학습포트폴리오 우수상
 
 
 
