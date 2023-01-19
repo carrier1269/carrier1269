@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/C-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/></a> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white"/></a> <img src="https://img.shields.io/badge/NVIDIA Jetson-76B900?style=flat&logo=NVIDIA&logoColor=white"/></a> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/></a> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/></a> <img src="https://img.shields.io/badge/MIT App Inventor-3DDC84?style=flat&logo=Android&logoColor=white"/></a> <img src="https://img.shields.io/badge/Embedded System-0078D6?style=flat&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Iot-00B0D8?style=flat&logo=Probot&logoColor=white"/></a>
 
 #### Develop Experience
--   2023-03 ~ ? 업체 연구원
+-   2023-03 ~ ? 업체 연구원 
 -   2023-03 ~ 2023-06 Google Development Students Club 2기
 -   2022-12 ~ 2023-02 SK텔레콤 AI-TECHLAB FLY AI 2기
 -   2022-11   KINTEX 공학페스티벌 박람회 헬스케어 부스 운영
