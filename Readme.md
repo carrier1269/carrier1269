@@ -28,7 +28,7 @@
 
 
 
-### :rocket: Develop Experience:rocket: 
+### :rocket: Development Experience:rocket: 
 -   2023-03 ~             Auto Point Tracking Film System 연구원 
 -   2023-03 ~ 2023-06     Google Development Students Club 2기
 -   2022-12 ~ 2023-02     SK텔레콤 AI-TECHLAB FLY AI 2기
@@ -36,7 +36,7 @@
 -   2019-03 ~             AI 학부연구생
 -   2016-03~ 2017-03      청원고등학교 로봇동아리 부회장
 
-### 👽️ Develop Project For Challenge 👽️ 
+### 👽️ Development Project For Challenge 👽️ 
 -   2015, 2016 WRO 월드 로봇 올림피아드
 -   2015 FLL 로봇챔피언십
 -   경기콘텐츠진흥원 & 경기문화창조허브 콘텐츠 제조 해커톤(메이커톤)
