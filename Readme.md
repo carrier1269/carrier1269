@@ -13,7 +13,8 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Windows Terminal-4D4D4D?style=flat&logo=Windows Terminal&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat&logo=Microsoft Azure&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Visual Studio C-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Catia V5 R20-005386?style=flat&logo=Dassault Systèmes&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/NVIDIA Jetson-76B900?style=flat&logo=NVIDIA&logoColor=white"/></a> 
@@ -21,7 +22,7 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Microsoft Office-6264A7?style=flat&logo=Microsoft Office&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MIT App Inventor-3DDC84?style=flat&logo=Android&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Embedded System-0078D6?style=flat&logo=Windows&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Embedded System-00B2FF?style=flat&logo=Windows&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Iot(Internet Of Things)-00B0D8?style=flat&logo=Probot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 
