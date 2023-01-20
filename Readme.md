@@ -3,23 +3,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrier1269&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</a>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-106-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 86 Contributions in the Year 2023
- > 
-> 📦 391.7 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I Mostly Code in Python** 
+**📦  My GitHub Data  📦** 
 
 ```text
 Python                   6 repos             █████████░░░░░░░░░░░░░░░░   37.5% 
@@ -29,14 +13,6 @@ Scheme                   1 repo              █░░░░░░░░░░�
 Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
 
 ```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/carrier1269/carrier1269/main/charts/bar_graph.png) 
-
-
- Last Updated on 19/01/2023 15:09:50 UTC
 <!--END_SECTION:waka-->
 
 ### :fire: Core Computer Skills :fire:
