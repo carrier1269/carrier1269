@@ -3,15 +3,82 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrier1269&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</a>
 <!--START_SECTION:waka-->
-**📦  My GitHub Data  📦** 
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-118-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 91 Contributions in the Year 2023
+ > 
+> 📦 391.8 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 22 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm a Night 🦉** 
 
 ```text
-Python                   6 repos             █████████░░░░░░░░░░░░░░░░   37.5% 
-Jupyter Notebook         4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Scheme                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+🌞 Morning    27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+🌆 Daytime    58 commits     ███████░░░░░░░░░░░░░░░░░░   29.29% 
+🌃 Evening    47 commits     ██████░░░░░░░░░░░░░░░░░░░   23.74% 
+🌙 Night      66 commits     ████████░░░░░░░░░░░░░░░░░   33.33%
+
 ```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       43 commits     █████░░░░░░░░░░░░░░░░░░░░   21.72% 
+Tuesday      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.57% 
+Wednesday    21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.61% 
+Thursday     58 commits     ███████░░░░░░░░░░░░░░░░░░   29.29% 
+Friday       38 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.19% 
+Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Sunday       25 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.63%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   7 repos             ██████████░░░░░░░░░░░░░░░   41.18% 
+Jupyter Notebook         4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53% 
+C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Scheme                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/carrier1269/carrier1269/main/charts/bar_graph.png) 
+
+
+ Last Updated on 20/01/2023 15:09:21 UTC
 <!--END_SECTION:waka-->
 ### :fire: Core Computer Skills :fire:
 
