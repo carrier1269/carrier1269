@@ -48,7 +48,7 @@ Lua                      1 repo              █░░░░░░░░░░�
 -   2015 FLL 로봇챔피언십, 2016 KRC 코리아로봇챔피언십
 -   2022 경기콘텐츠진흥원 & 경기문화창조허브 콘텐츠 제조 해커톤(메이커톤)
 -   2022 교내 캡스톤 디자인 경진대회
--   2022 DL Camera System For Crime Prevention(특허 공개출원)
+-   2022 Camera DL System For Crime Prevention(특허 공개출원)
 -   2022 넥슨 메이플스토리 & 멋쟁이사자처럼 슈퍼해커톤 Maplestory Worlds 기획&개발
 -   2023 SK텔레콤 A.(에이닷) Best Photographed Of Human Face Image 자동합성시스템
 
