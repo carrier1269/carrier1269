@@ -11,10 +11,8 @@ Jupyter Notebook         4 repos             ██████░░░░░�
 C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
 Scheme                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
 Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
-
 ```
 <!--END_SECTION:waka-->
-
 ### :fire: Core Computer Skills :fire:
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
