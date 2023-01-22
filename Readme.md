@@ -3,14 +3,82 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrier1269&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</a>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-129-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 99 Contributions in the Year 2023
+ > 
+> 📦 391.8 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 24 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.37% 
+🌆 Daytime    60 commits     ███████░░░░░░░░░░░░░░░░░░   29.7% 
+🌃 Evening    49 commits     ██████░░░░░░░░░░░░░░░░░░░   24.26% 
+🌙 Night      66 commits     ████████░░░░░░░░░░░░░░░░░   32.67%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       43 commits     █████░░░░░░░░░░░░░░░░░░░░   21.29% 
+Tuesday      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.44% 
+Wednesday    21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.4% 
+Thursday     58 commits     ███████░░░░░░░░░░░░░░░░░░   28.71% 
+Friday       38 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.81% 
+Saturday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5% 
+Sunday       28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.86%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
 ```text
 Python                   7 repos             ██████████░░░░░░░░░░░░░░░   41.18% 
 Jupyter Notebook         4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53% 
 C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
 Scheme                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
 Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+
 ```
-Last Updated on 21/01/2023 15:07:32 UTC
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/carrier1269/carrier1269/main/charts/bar_graph.png) 
+
+
+ Last Updated on 22/01/2023 15:07:13 UTC
 <!--END_SECTION:waka-->
 ### :fire: Core Computer Skills :fire:
 
