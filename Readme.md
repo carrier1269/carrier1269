@@ -1,4 +1,3 @@
-
 ## :construction_worker: Hi! I'm ML / DL Software developer! :construction_worker:
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrier1269&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</a>
