@@ -38,7 +38,7 @@
 -   2022 교내 캡스톤 디자인 경진대회
 -   2022 Camera DL System For Crime Prevention(특허 공개출원)
 -   2022 넥슨 메이플스토리 & 멋쟁이사자처럼 슈퍼해커톤 Maplestory Worlds 기획&개발
--   2023 SK텔레콤 A.(에이닷) Best Photographed Of Human Face Image 자동합성시스템
+-   2023 SK텔레콤 A.(에이닷) Best Photographed Image Of Human Face 자동합성시스템
 
 ### 🏆 Awards 🏆
 #### 2023
