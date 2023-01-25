@@ -1,6 +1,7 @@
 ## :construction_worker: Hi! I'm ML / DL Software developer! :construction_worker:
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrier1269&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</a>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=carrier1269)](https://solved.ac/carrier1269/)
 ### :fire: Core Computer Skills :fire:
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
