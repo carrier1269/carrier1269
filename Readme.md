@@ -4,7 +4,6 @@
 ### :fire: Core Computer Skills :fire:
 
 <img src="https://img.shields.io/badge/Python3-3776AB?style=flat&logo=Python&logoColor=white"/></a>
-<!-- <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat&logo=Microsoft Azure&logoColor=white"/></a> -->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Catia V5 R20-005386?style=flat&logo=Dassault Systèmes&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/NVIDIA Jetson-76B900?style=flat&logo=NVIDIA&logoColor=white"/></a> 
@@ -13,7 +12,7 @@
 <img src="https://img.shields.io/badge/Iot-00B0D8?style=flat&logo=Probot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 
-
+<!-- <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat&logo=Microsoft Azure&logoColor=white"/></a> -->
 
 ### :rocket: Development Experience:rocket: 
 -   2023-03 ~             Auto Point Tracking Film System 연구원 
