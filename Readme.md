@@ -1,17 +1,16 @@
 ## :construction_worker: Hi! I'm ML / DL Software developer! :construction_worker:
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrier1269&hide=XML,Rich%20Text%20Format&theme=discord_old_blurple&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<!--   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrier1269&hide=XML,Rich%20Text%20Format&theme=discord_old_blurple&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 ### :fire: Core Computer Skills :fire:
 
 <img src="https://img.shields.io/badge/Python3-3776AB?style=flat&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/Catia V5 R20-005386?style=flat&logo=Dassault Systèmes&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/NVIDIA Jetson-76B900?style=flat&logo=NVIDIA&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Embedded System-00B2FF?style=flat&logo=Windows&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Iot-00B0D8?style=flat&logo=Probot&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
 
 <!-- <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat&logo=Microsoft Azure&logoColor=white"/></a> -->
