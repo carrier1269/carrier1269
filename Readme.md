@@ -12,8 +12,7 @@
 <img src="https://img.shields.io/badge/Embedded System-00B2FF?style=flat&logo=Windows&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Iot-00B0D8?style=flat&logo=Probot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
-
-<!-- <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat&logo=Microsoft Azure&logoColor=white"/></a> -->
+<img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat&logo=Microsoft Azure&logoColor=white"/></a>
 
 ### :rocket: Development Experience:rocket: 
 -   2023-03 ~             Auto Point Tracking Film System 연구원 
