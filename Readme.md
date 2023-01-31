@@ -16,7 +16,7 @@
 
 ### :rocket: Development Experience:rocket: 
 -   2023-03 ~             Auto Point Tracking Film System 연구원 
--   2023-03               Google Development Students Club
+-   2023-03               Google Development Students Club리연합동아리
 -   2022-12 ~ 2023-02     SK텔레콤 AI-TECHLAB FLY AI 2기
 -   2022-11               KINTEX 공학페스티벌 박람회 헬스케어 부스 운영
 -   2019-03 ~             AI 학부연구생
@@ -41,7 +41,7 @@
 -   교내 학습포트폴리오 우수상
 
 ### 🤡 License 🤡
-- <img src="https://user-images.githubusercontent.com/58325946/215244321-3002313f-f77b-4eaa-93fa-00c671358149.png" width="20" height="20"> Microsoft Azure AI Fundamentals AI-900 
+- <img src="https://user-images.githubusercontent.com/58325946/215244321-3002313f-f77b-4eaa-93fa-00c671358149.png" width="20" height="20"> Microsoft Azure AI Fundamentals AI-900 (마이크로소프트 인공지능 국제자격증)
 - ITQ 인터넷, 파워포인트, 아래한글 A,B
 - 워드프로세서 3급
 
