@@ -5,14 +5,14 @@
 
 <img src="https://img.shields.io/badge/Python3-3776AB?style=flat&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/Catia V5 R20-005386?style=flat&logo=Dassault Systèmes&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/NVIDIA Jetson-76B900?style=flat&logo=NVIDIA&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Embedded System-00B2FF?style=flat&logo=Windows&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Iot-00B0D8?style=flat&logo=Probot&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat&logo=Microsoft Azure&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
 
 ### :rocket: Development Experience:rocket: 
 -   2023-03 ~             Auto Point Tracking Film System 연구원 
@@ -20,7 +20,7 @@
 -   2022-12 ~ 2023-02     SK텔레콤 AI-TECHLAB FLY AI 2기
 -   2022-11               KINTEX 공학페스티벌 박람회 헬스케어 부스 운영
 -   2019-03 ~             AI 학부연구생
--   2016-03~ 2017-03      청원고등학교 로봇동아리 부회장
+-   2016-03 ~ 2017-03     청원고등학교 로봇동아리 부회장
 
 ### 👽️ Development Project 👽️ 
 -   2015, 2016 WRO 월드 로봇 올림피아드
