@@ -22,7 +22,7 @@
 -   2019-03 ~             AI 학부연구생
 -   2016-03 ~ 2017-03     청원고등학교 로봇동아리 부회장
 
-### 👽️ Development Project 👽️ 
+### :snowman_with_snow: Development Project :snowman_with_snow: 
 -   2015, 2016 WRO 월드 로봇 올림피아드
 -   2015 FLL 로봇챔피언십, 2016 KRC 코리아로봇챔피언십
 -   2022 경기콘텐츠진흥원 & 경기문화창조허브 콘텐츠 제조 해커톤(메이커톤)
@@ -34,17 +34,17 @@
 ### 🏆 Awards 🏆
 #### 2023
 #### 2022
--   캡스톤 디자인 경진대회 대상
--   경기콘텐츠진흥원 & 경기문화창조허브 콘텐츠 + 제조 해커톤(메이커톤) 금상
--   KINTEX 공학 페스티벌 성균관대학교 디지털 헬스케어 동상 
+-   :trophy: 캡스톤 디자인 경진대회 대상
+-   :1st_place_medal: 경기콘텐츠진흥원 & 경기문화창조허브 콘텐츠 + 제조 해커톤(메이커톤) 금상
+-   :3rd_place_medal: KINTEX 공학 페스티벌 성균관대학교 디지털 헬스케어 동상 
 -   교내 IP발명경진대회 장려상
 -   교내 학습포트폴리오 우수상
 
 ### :flying_saucer: Patent :flying_saucer:
-- 딥러닝 스토킹범죄방지 카메라 (출원번호 : 10-2022-0155909)
-- AI를 이용한 실종자/수배자 추적을 위한 객체 인식 시스템 (출원번호 : 10-2022-0155905)
+- (출원번호 : 10-2022-0155909) 딥러닝 스토킹범죄방지 카메라 
+- (출원번호 : 10-2022-0155905) AI를 이용한 실종자/수배자 추적을 위한 객체 인식 시스템 
 
-### 🤡 License 🤡
+### :crystal_ball: License :crystal_ball:
 - <img src="https://user-images.githubusercontent.com/58325946/215244321-3002313f-f77b-4eaa-93fa-00c671358149.png" width="20" height="20"> Microsoft Azure AI Fundamentals AI-900 (마이크로소프트 인공지능 국제자격증)
 - ITQ 인터넷, 파워포인트, 아래한글 A,B
 - 워드프로세서 3급
