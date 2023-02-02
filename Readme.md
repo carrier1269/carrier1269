@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
 
 ### :rocket: Development Experience:rocket: 
--   2023-03 ~             Auto Point Tracking Film System 연구원 
+-   2023-03 ~             Auto Point Tracking Film System , 국가연구원 프리랜서 
 -   2023-03               [Google Development Students Club 연합동아리](https://gdsc-dju.web.app/)
 -   2022-12 ~ 2023-02     [SK텔레콤 AI-TECHLAB FLY AI 2기](https://www.skttechacademy.com/)
 -   2022-11               [KINTEX 공학페스티벌 박람회 헬스케어 부스 운영 (L011)](http://www.e2festa.kr/ko/work?stp=0)
