@@ -40,7 +40,7 @@
 -   교내 IP발명경진대회 장려상
 -   교내 학습포트폴리오 우수상
 
-### :flying_saucer: Paten :flying_saucer:
+### :flying_saucer: Patent :flying_saucer:
 - 딥러닝 스토킹범죄방지 카메라 (출원번호 : 10-2022-0155909)
 - AI를 이용한 실종자/수배자 추적을 위한 객체 인식 시스템 (출원번호 : 10-2022-0155905)
 
