@@ -1,7 +1,7 @@
 ## :construction_worker: Hi! I'm ML / DL Software developer! :construction_worker:
 <!--   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrier1269&hide=XML,Rich%20Text%20Format&theme=discord_old_blurple&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
-### :fire: Core Computer Skills :fire:
+### :fire: Core Computer Skills :fire: 
 
 <img src="https://img.shields.io/badge/Python3-3776AB?style=flat&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/></a>
