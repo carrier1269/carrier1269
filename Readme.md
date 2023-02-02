@@ -45,7 +45,7 @@
 - (출원번호 : 10-2022-0155905) AI를 이용한 실종자/수배자 추적을 위한 객체 인식 시스템 
 
 ### :crystal_ball: License :crystal_ball:
-- <img src="https://user-images.githubusercontent.com/58325946/215244321-3002313f-f77b-4eaa-93fa-00c671358149.png" width="20" height="20"> [Microsoft Azure AI Fundamentals AI-900 (마이크로소프트 인공지능 국제자격증)](https://github.com/carrier1269/carrier1269/files/10566554/AI900.Microsoft.Azure.AI.Fundamentals.pdf)
+- <img src="https://user-images.githubusercontent.com/58325946/215244321-3002313f-f77b-4eaa-93fa-00c671358149.png" width="20" height="20"> [Microsoft Azure AI Fundamentals AI-900 (마이크로소프트 인공지능 국제자격증)](https://user-images.githubusercontent.com/58325946/216269281-2ce36f4c-4784-4f96-add0-16fb41030f02.png)
 - [ITQ 인터넷, 파워포인트, 아래한글 A,B](https://user-images.githubusercontent.com/58325946/216268728-c7d93277-8734-40c1-be81-ca93bf0f6f45.png)
 - 워드프로세서 3급
 
