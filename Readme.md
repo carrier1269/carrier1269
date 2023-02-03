@@ -23,8 +23,9 @@
 -   2016-03 ~ 2017-03     [청원고등학교 로봇동아리 부회장](https://cafe.naver.com/cwrt)
 
 ### :snowman_with_snow: Development Project :snowman_with_snow: 
--   2015, 2016 [WRO 월드 로봇 올림피아드 Gear 팀](https://www.wro2022.org/)
+-   2015 [WRO 월드 로봇 올림피아드 Gear 팀](https://www.wro2022.org/)
 -   2015 [FLL 로봇챔피언십 Gear 팀](https://www.firstinspires.org/robotics/fll)
+-   2016 [WRO 월드 로봇 올림피아드 Gear 팀](https://www.wro2022.org/)
 -   2016 [KRC 코리아로봇챔피언십 Gear 팀](http://www.fest.or.kr/119)
 -   2022 [경기콘텐츠진흥원 & 경기문화창조허브 콘텐츠 제조 해커톤(메이커톤) LOCK 퓨전 팀](https://github.com/carrier1269/gyro_Bicycle_Locker.git)
 -   2022 [교내 캡스톤 디자인 경진대회 For pet 팀](https://github.com/carrier1269/KINTEX_iot_cat_tower)
