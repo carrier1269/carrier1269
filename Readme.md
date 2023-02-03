@@ -26,7 +26,7 @@
 -   2015, 2016 [WRO 월드 로봇 올림피아드](https://www.wro2022.org/)
 -   2015 [FLL 로봇챔피언십](https://www.firstinspires.org/robotics/fll)
 -   2016 [KRC 코리아로봇챔피언십](http://www.fest.or.kr/119)
--   2022 [경기콘텐츠진흥원 & 경기문화창조허브 콘텐츠 제조 해커톤(메이커톤)](https://www.gcon.or.kr/ghub/program/view?menuId=MENU01970&pageNum=1&listType=01&rowCnt=8&schHub=&schText=&proid=PRO0002400)
+-   2022 [경기콘텐츠진흥원 & 경기문화창조허브 콘텐츠 제조 해커톤(메이커톤)](https://github.com/carrier1269/gyro_Bicycle_Locker.git)
 -   2022 [교내 캡스톤 디자인 경진대회](https://github.com/carrier1269/KINTEX_iot_cat_tower)
 -   2022 [KINTEX 공학페스티벌 박람회 For pet팀](https://user-images.githubusercontent.com/58325946/216480279-606f5f38-0ead-43e2-914e-90360d437953.png)
 -   2022 [Camera DL System For Crime Prevention(특허 공개출원)](https://doi.org/10.8080/1020220155909)
