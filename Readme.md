@@ -36,7 +36,6 @@
 #### 2023
 #### 2022
 -   :trophy: [캡스톤 디자인 경진대회 대상](https://user-images.githubusercontent.com/58325946/216477940-4a147f3e-c7e4-40e6-8ebc-52ff477f9ccf.png)
-
 -   :1st_place_medal: 경기콘텐츠진흥원 & 경기문화창조허브 콘텐츠 + 제조 해커톤(메이커톤) 금상
 -   :3rd_place_medal: KINTEX 공학 페스티벌 성균관대학교 디지털 헬스케어 동상 
 -   교내 IP발명경진대회 장려상
