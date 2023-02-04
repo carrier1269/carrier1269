@@ -1,20 +1,24 @@
 ## 	:lab_coat: Hi! I'm ML / DL Software developer! :lab_coat:
 <!--   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrier1269&hide=XML,Rich%20Text%20Format&theme=discord_old_blurple&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
-### :fire: Core Computer Skills :fire: 
+### :watch: Computer Skills :watch: 
 
+<img src="https://img.shields.io/badge/Python-5839ab?style=flat&logo=Visual Studio Code&logoColor=coral"/></a> 🟰
 <img src="https://img.shields.io/badge/Python3-3776AB?style=flat&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/></a>  
-<img src="https://img.shields.io/badge/Catia V5 R20-005386?style=flat&logo=Dassault Systèmes&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Server-5839ab?style=flat&logo=Private Internet Access&logoColor=coral"/></a> 🟰 
+<img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat&logo=Microsoft Azure&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white"/></a>   
+<img src="https://img.shields.io/badge/Another-5839ab?style=flat&logo=GNOME Terminal&logoColor=coral"/></a> 🟰 
 <img src="https://img.shields.io/badge/NVIDIA Jetson-76B900?style=flat&logo=NVIDIA&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Iot-00B0D8?style=flat&logo=Probot&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat&logo=Microsoft Azure&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
-
-### :rocket: Development Experience:rocket: 
+<img src="https://img.shields.io/badge/Catia V5 R20-005386?style=flat&logo=Dassault Systèmes&logoColor=white"/></a> 
+### 🩻 Development Experience 🩻
 -   2023-03 ~             Auto Point Tracking Film System , 국가연구원 프리랜서 
 -   2023-03               [Google Development Students Club 연합동아리](https://gdsc-dju.web.app/)
 -   2022-12 ~ 2023-02     [SK텔레콤 AI-TECHLAB FLY AI 2기](https://www.skttechacademy.com/)
@@ -43,11 +47,11 @@
 -   교내 IP발명경진대회 장려상
 -   교내 학습포트폴리오 우수상
 
-### :flying_saucer: Patent :flying_saucer:
+### :crystal_ball: Patent :crystal_ball:
 - (출원번호 : 10-2022-0155909) [딥러닝 스토킹범죄방지 카메라](https://doi.org/10.8080/1020220155909)
 - (출원번호 : 10-2022-0155905) AI를 이용한 실종자/수배자 추적을 위한 객체 인식 시스템 
 
-### :crystal_ball: License :crystal_ball:
+### 🪪 License 🪪
 - <img src="https://user-images.githubusercontent.com/58325946/215244321-3002313f-f77b-4eaa-93fa-00c671358149.png" width="20" height="20"> [Microsoft Azure AI Fundamentals AI-900 (마이크로소프트 인공지능 국제자격증)](https://user-images.githubusercontent.com/58325946/216269281-2ce36f4c-4784-4f96-add0-16fb41030f02.png)
 - [ITQ 인터넷, 파워포인트, 아래한글 A,B](https://user-images.githubusercontent.com/58325946/216268728-c7d93277-8734-40c1-be81-ca93bf0f6f45.png)
 - [대한상공회의소 워드프로세서 3급](https://user-images.githubusercontent.com/58325946/216268728-c7d93277-8734-40c1-be81-ca93bf0f6f45.png)
