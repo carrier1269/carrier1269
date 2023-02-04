@@ -1,7 +1,7 @@
 # 	:lab_coat: Hi! I'm Machine Learning Engineer! :lab_coat:
 
 ## :watch: Computer Skills :watch: 
-|Peroid|Experience Name|
+|Title|Skill|
 |---|---|
 |<img src="https://img.shields.io/badge/Python-9BF0E1?style=for-the-badge&logo=&logoColor=coral"/></a>|<img src="https://img.shields.io/badge/Python3-9999FF?style=for-the-badge&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Tensorflow-9999FF?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a> <img src="https://img.shields.io/badge/ScikitLearn-9999FF?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a> <img src="https://img.shields.io/badge/Flask-9999FF?style=for-the-badge&logo=Flask&logoColor=white"/></a>|
 |<img src="https://img.shields.io/badge/Server-9BF0E1?style=for-the-badge&logo=&logoColor=coral"/></a>|<img src="https://img.shields.io/badge/Microsoft Azure-9999FF?style=for-the-badge&logo=Microsoft Azure&logoColor=white"/></a> <img src="https://img.shields.io/badge/Amazon AWS-9999FF?style=for-the-badge&logo=Amazon AWS&logoColor=white"/></a>|
