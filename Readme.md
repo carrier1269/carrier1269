@@ -1,4 +1,6 @@
-# 	:lab_coat: Hi! I'm Machine Learning Engineer! :lab_coat:
+<div align="center">
+  
+# :lab_coat: Hi! I'm Machine Learning Engineer! :lab_coat:
 
 ## :watch: Computer Skills :watch: 
 |Title|Skill|
@@ -34,21 +36,22 @@
 ## 🏆 Awards 🏆
 ### 2023
 ### 2022
--   :trophy: [캡스톤 디자인 경진대회 대상](https://user-images.githubusercontent.com/58325946/216479347-f95a0f88-dd0e-4f9d-8502-1a8d50efde0f.png)
--   :1st_place_medal: [경기콘텐츠진흥원 & 경기문화창조허브 콘텐츠 + 제조 해커톤(메이커톤) 금상](https://user-images.githubusercontent.com/58325946/216479407-a34fe191-8fbd-4aef-b593-10a217059d02.png)
--   :3rd_place_medal: [KINTEX 공학 페스티벌 성균관대학교 디지털 헬스케어 동상](https://user-images.githubusercontent.com/58325946/216477940-4a147f3e-c7e4-40e6-8ebc-52ff477f9ccf.png)
--   교내 IP발명경진대회 장려상
--   교내 학습포트폴리오 우수상
+ :trophy: [캡스톤 디자인 경진대회 대상](https://user-images.githubusercontent.com/58325946/216479347-f95a0f88-dd0e-4f9d-8502-1a8d50efde0f.png)  
+ :1st_place_medal: [경기콘텐츠진흥원 & 경기문화창조허브 콘텐츠 + 제조 해커톤(메이커톤) 금상](https://user-images.githubusercontent.com/58325946/216479407-a34fe191-8fbd-4aef-b593-10a217059d02.png)  
+ :3rd_place_medal: [KINTEX 공학 페스티벌 성균관대학교 디지털 헬스케어 동상](https://user-images.githubusercontent.com/58325946/216477940-4a147f3e-c7e4-40e6-8ebc-52ff477f9ccf.png)  
+ 교내 IP발명경진대회 장려상  
+ 교내 학습포트폴리오 우수상  
 
 ## :crystal_ball: Patent :crystal_ball:
-- (출원번호 : 10-2022-0155909) [딥러닝 스토킹범죄방지 카메라](https://doi.org/10.8080/1020220155909)
-- (출원번호 : 10-2022-0155905) AI를 이용한 실종자/수배자 추적을 위한 객체 인식 시스템 
+ (출원번호 : 10-2022-0155909) [딥러닝 스토킹범죄방지 카메라](https://doi.org/10.8080/1020220155909)  
+ (출원번호 : 10-2022-0155905) AI를 이용한 실종자/수배자 추적을 위한 객체 인식 시스템   
 
 ## 🪪 License 🪪
-- <img src="https://user-images.githubusercontent.com/58325946/215244321-3002313f-f77b-4eaa-93fa-00c671358149.png" width="20" height="20"> [Microsoft Azure AI Fundamentals AI-900 (마이크로소프트 인공지능 국제자격증)](https://user-images.githubusercontent.com/58325946/216269281-2ce36f4c-4784-4f96-add0-16fb41030f02.png)
-- [ITQ 인터넷, 파워포인트, 아래한글 A,B](https://user-images.githubusercontent.com/58325946/216268728-c7d93277-8734-40c1-be81-ca93bf0f6f45.png)
-- [대한상공회의소 워드프로세서 3급](https://user-images.githubusercontent.com/58325946/216268728-c7d93277-8734-40c1-be81-ca93bf0f6f45.png)
+ <img src="https://user-images.githubusercontent.com/58325946/215244321-3002313f-f77b-4eaa-93fa-00c671358149.png" width="20" height="20"> [Microsoft Azure AI  Fundamentals AI-900 (마이크로소프트 인공지능 국제자격증)](https://user-images.githubusercontent.com/58325946/216269281-2ce36f4c-4784-4f96-add0-16fb41030f02.png)  
+ [ITQ 인터넷, 파워포인트, 아래한글 A,B](https://user-images.githubusercontent.com/58325946/216268728-c7d93277-8734-40c1-be81-ca93bf0f6f45.png)  
+ [대한상공회의소 워드프로세서 3급](https://user-images.githubusercontent.com/58325946/216268728-c7d93277-8734-40c1-be81-ca93bf0f6f45.png)  
 
+</div>
 
 <!--
 **carrier1269/carrier1269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
