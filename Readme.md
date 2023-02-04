@@ -1,45 +1,35 @@
 ## 	:lab_coat: Hi! I'm Machine Learning Engineer! :lab_coat:
 
 ### :watch: Computer Skills :watch: 
+|Peroid|Experience Name|
+|---|---|
+|<img src="https://img.shields.io/badge/Python-9BF0E1?style=for-the-badge&logo=&logoColor=coral"/></a>|<img src="https://img.shields.io/badge/Python3-9999FF?style=for-the-badge&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Tensorflow-9999FF?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a> <img src="https://img.shields.io/badge/ScikitLearn-9999FF?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a> <img src="https://img.shields.io/badge/Flask-9999FF?style=for-the-badge&logo=Flask&logoColor=white"/></a>|
+|<img src="https://img.shields.io/badge/Server-9BF0E1?style=for-the-badge&logo=&logoColor=coral"/></a>|<img src="https://img.shields.io/badge/Microsoft Azure-9999FF?style=for-the-badge&logo=Microsoft Azure&logoColor=white"/></a> <img src="https://img.shields.io/badge/Amazon AWS-9999FF?style=for-the-badge&logo=Amazon AWS&logoColor=white"/></a>|
+|<img src="https://img.shields.io/badge/Else-9BF0E1?style=for-the-badge&logo=&logoColor=coral"/></a>|<img src="https://img.shields.io/badge/NVIDIA Jetson-9999FF?style=for-the-badge&logo=NVIDIA&logoColor=white"/></a> <img src="https://img.shields.io/badge/Ubuntu-9999FF?style=for-the-badge&logo=Ubuntu&logoColor=white"/></a> <img src="https://img.shields.io/badge/Iot-9999FF?style=for-the-badge&logo=Probot&logoColor=white"/></a> <img src="https://img.shields.io/badge/Catia V5 R20-9999FF?style=for-the-badge&logo=Dassault Systèmes&logoColor=white"/></a>|
 
-<img src="https://img.shields.io/badge/Python-9BF0E1?style=for-the-badge&logo=&logoColor=coral"/></a>   
-<img src="https://img.shields.io/badge/Python3-9999FF?style=for-the-badge&logo=Python&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Tensorflow-9999FF?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/ScikitLearn-9999FF?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Flask-9999FF?style=for-the-badge&logo=Flask&logoColor=white"/></a>  
-<img src="https://img.shields.io/badge/Server-9BF0E1?style=for-the-badge&logo=&logoColor=coral"/></a>   
-<img src="https://img.shields.io/badge/Microsoft Azure-9999FF?style=for-the-badge&logo=Microsoft Azure&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Amazon AWS-9999FF?style=for-the-badge&logo=Amazon AWS&logoColor=white"/></a>   
-<img src="https://img.shields.io/badge/Else-9BF0E1?style=for-the-badge&logo=&logoColor=coral"/></a>   
-<img src="https://img.shields.io/badge/NVIDIA Jetson-9999FF?style=for-the-badge&logo=NVIDIA&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Ubuntu-9999FF?style=for-the-badge&logo=Ubuntu&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Iot-9999FF?style=for-the-badge&logo=Probot&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Catia V5 R20-9999FF?style=for-the-badge&logo=Dassault Systèmes&logoColor=white"/></a> 
 ### 🩻 Development Experience 🩻
-|제목|내용|설명|
-|---|---|---|
-|테스트1|*강조1*|테스트3|
-|테스트1|**강조2**|테스트3|
-|테스트1|<span style="color:red">강조3</span>|테스트3|
--   | 2023-03 ~ |             Auto Point Tracking Film System , 국가R&D연구원 프리랜서 | 
--   |제목|내용|설명|
--   2023-03 ~             [Google Development Students Club 연합동아리](https://gdsc-dju.web.app/)
--   2022-12 ~ 2023-02     [SK텔레콤 AI-TECHLAB FLY AI 2기](https://www.skttechacademy.com/)
--   2022-11               [KINTEX 공학페스티벌 박람회 헬스케어 부스 운영 (L011)](http://www.e2festa.kr/ko/work?stp=0)
--   2019-03 ~             [AI 학부연구생](https://github.com/chlrkdls)
--   2016-03 ~ 2017-03     [청원고등학교 로봇동아리 부회장](https://cafe.naver.com/cwrt)
+|Peroid|Experience Name|
+|---|---|
+|**2023-03 ~ now**|**Auto Point Tracking Film System , 국가R&D연구원 프리랜서**|
+|**2023-03 ~ now**|**[Google Development Students Club 연합동아리](https://gdsc-dju.web.app/)**|
+|**2022-12 ~ 2023-02**|**[SK텔레콤 AI-TECHLAB FLY AI 2기](https://www.skttechacademy.com/)**|
+|**2022-11**|**[KINTEX 공학페스티벌 박람회 헬스케어 부스 운영 (L011)](http://www.e2festa.kr/ko/work?stp=0)**|
+|**2019-03 ~ now**|**[AI 학부연구생](https://github.com/chlrkdls)**|
+|**2016-03 ~ 2017-03**|**[청원고등학교 로봇동아리 부회장](https://cafe.naver.com/cwrt)**|
 
 ### :snowman_with_snow: Development Project :snowman_with_snow: 
--   2015 [WRO 월드 로봇 올림피아드 Gear 팀](https://www.wro2022.org/)
--   2015 [FLL 로봇챔피언십 Gear 팀](https://www.firstinspires.org/robotics/fll)
--   2016 [WRO 월드 로봇 올림피아드 Gear 팀](https://www.wro2022.org/)
--   2016 [KRC 코리아로봇챔피언십 Gear 팀](http://www.fest.or.kr/119)
--   2022 [경기콘텐츠진흥원 & 경기문화창조허브 콘텐츠 제조 해커톤(메이커톤) LOCK 퓨전 팀](https://github.com/carrier1269/gyro_Bicycle_Locker.git)
--   2022 [교내 캡스톤 디자인 경진대회 For pet 팀](https://github.com/carrier1269/KINTEX_iot_cat_tower)
--   2022 [KINTEX 공학페스티벌 박람회 For pet 팀](https://user-images.githubusercontent.com/58325946/216480279-606f5f38-0ead-43e2-914e-90360d437953.png)
--   2022 [Camera DL System For Crime Prevention(특허 공개출원)](https://doi.org/10.8080/1020220155909)
--   2022 [넥슨 메이플스토리 & 멋쟁이사자처럼 슈퍼해커톤 Maplestory Worlds 기획&개발 라33 팀](https://github.com/carrier1269/Nexon_Maplestory_Hackathon)
--   2023 [SK텔레콤 A.(에이닷) Best Photographed Image Of Human Face 자동합성시스템 인생네조 팀](https://github.com/seongyonglim/GG)
+|Year|Project Name|
+|---|---|
+|**2015**|**[WRO 월드 로봇 올림피아드 Gear 팀](https://www.wro2022.org/)**|
+|**2015**|**[FLL 로봇챔피언십 Gear 팀](https://www.firstinspires.org/robotics/fll)**|
+|**2016**|**[WRO 월드 로봇 올림피아드 Gear 팀](https://www.wro2022.org/)**|
+|**2016**|**[KRC 코리아로봇챔피언십 Gear 팀](http://www.fest.or.kr/119)**|
+|**2022**|**[경기콘텐츠진흥원 & 경기문화창조허브 콘텐츠 제조 해커톤(메이커톤) LOCK 퓨전 팀](https://github.com/carrier1269/gyro_Bicycle_Locker.git)**|
+|**2022**|**[교내 캡스톤 디자인 경진대회 For pet 팀](https://github.com/carrier1269/KINTEX_iot_cat_tower)**|
+|**2022**|**[KINTEX 공학페스티벌 박람회 For pet 팀](https://user-images.githubusercontent.com/58325946/216480279-606f5f38-0ead-43e2-914e-90360d437953.png)**|
+|**2022**|**[Camera DL System For Crime Prevention(특허 공개출원)](https://doi.org/10.8080/1020220155909)**|
+|**2022**|**[넥슨 메이플스토리 & 멋쟁이사자처럼 슈퍼해커톤 Maplestory Worlds 기획&개발 라33 팀](https://github.com/carrier1269/Nexon_Maplestory_Hackathon)**|
+|**2023**|**[SK텔레콤 A.(에이닷) Best Photographed Image Of Human Face 자동합성시스템 인생네조 팀](https://github.com/seongyonglim/GG)**|
 
 ### 🏆 Awards 🏆
 #### 2023
