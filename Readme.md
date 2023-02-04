@@ -16,7 +16,8 @@
 <img src="https://img.shields.io/badge/Iot-9999FF?style=for-the-badge&logo=Probot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Catia V5 R20-9999FF?style=for-the-badge&logo=Dassault Systèmes&logoColor=white"/></a> 
 ### 🩻 Development Experience 🩻
--   2023-03 ~             Auto Point Tracking Film System , 국가R&D연구원 프리랜서 
+-   | 2023-03 ~ |             Auto Point Tracking Film System , 국가R&D연구원 프리랜서 | 
+-   |제목|내용|설명|
 -   2023-03 ~             [Google Development Students Club 연합동아리](https://gdsc-dju.web.app/)
 -   2022-12 ~ 2023-02     [SK텔레콤 AI-TECHLAB FLY AI 2기](https://www.skttechacademy.com/)
 -   2022-11               [KINTEX 공학페스티벌 박람회 헬스케어 부스 운영 (L011)](http://www.e2festa.kr/ko/work?stp=0)
