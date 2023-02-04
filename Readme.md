@@ -1,4 +1,4 @@
-## 	:lab_coat: Hi! I'm ML / DL Software developer! :lab_coat:
+## 	:lab_coat: Hi! I'm Machine Learning Engineer! :lab_coat:
 <!--   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrier1269&hide=XML,Rich%20Text%20Format&theme=discord_old_blurple&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 ### :watch: Computer Skills :watch: 
