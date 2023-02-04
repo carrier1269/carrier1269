@@ -1,13 +1,13 @@
-## 	:lab_coat: Hi! I'm Machine Learning Engineer! :lab_coat:
+# 	:lab_coat: Hi! I'm Machine Learning Engineer! :lab_coat:
 
-### :watch: Computer Skills :watch: 
+## :watch: Computer Skills :watch: 
 |Peroid|Experience Name|
 |---|---|
 |<img src="https://img.shields.io/badge/Python-9BF0E1?style=for-the-badge&logo=&logoColor=coral"/></a>|<img src="https://img.shields.io/badge/Python3-9999FF?style=for-the-badge&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Tensorflow-9999FF?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a> <img src="https://img.shields.io/badge/ScikitLearn-9999FF?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a> <img src="https://img.shields.io/badge/Flask-9999FF?style=for-the-badge&logo=Flask&logoColor=white"/></a>|
 |<img src="https://img.shields.io/badge/Server-9BF0E1?style=for-the-badge&logo=&logoColor=coral"/></a>|<img src="https://img.shields.io/badge/Microsoft Azure-9999FF?style=for-the-badge&logo=Microsoft Azure&logoColor=white"/></a> <img src="https://img.shields.io/badge/Amazon AWS-9999FF?style=for-the-badge&logo=Amazon AWS&logoColor=white"/></a>|
 |<img src="https://img.shields.io/badge/Else-9BF0E1?style=for-the-badge&logo=&logoColor=coral"/></a>|<img src="https://img.shields.io/badge/NVIDIA Jetson-9999FF?style=for-the-badge&logo=NVIDIA&logoColor=white"/></a> <img src="https://img.shields.io/badge/Ubuntu-9999FF?style=for-the-badge&logo=Ubuntu&logoColor=white"/></a> <img src="https://img.shields.io/badge/Iot-9999FF?style=for-the-badge&logo=Probot&logoColor=white"/></a> <img src="https://img.shields.io/badge/Catia V5 R20-9999FF?style=for-the-badge&logo=Dassault Systèmes&logoColor=white"/></a>|
 
-### 🩻 Development Experience 🩻
+## 🩻 Development Experience 🩻
 |Peroid|Experience Name|
 |---|---|
 |**2023-03 ~ now**|**Auto Point Tracking Film System , 국가R&D연구원 프리랜서**|
@@ -17,7 +17,7 @@
 |**2019-03 ~ now**|**[AI 학부연구생](https://github.com/chlrkdls)**|
 |**2016-03 ~ 2017-03**|**[청원고등학교 로봇동아리 부회장](https://cafe.naver.com/cwrt)**|
 
-### :snowman_with_snow: Development Project :snowman_with_snow: 
+## :snowman_with_snow: Development Project :snowman_with_snow: 
 |Year|Project Name|
 |---|---|
 |**2015**|**[WRO 월드 로봇 올림피아드 Gear 팀](https://www.wro2022.org/)**|
@@ -31,20 +31,20 @@
 |**2022**|**[넥슨 메이플스토리 & 멋쟁이사자처럼 슈퍼해커톤 Maplestory Worlds 기획&개발 라33 팀](https://github.com/carrier1269/Nexon_Maplestory_Hackathon)**|
 |**2023**|**[SK텔레콤 A.(에이닷) Best Photographed Image Of Human Face 자동합성시스템 인생네조 팀](https://github.com/seongyonglim/GG)**|
 
-### 🏆 Awards 🏆
-#### 2023
-#### 2022
+## 🏆 Awards 🏆
+### 2023
+### 2022
 -   :trophy: [캡스톤 디자인 경진대회 대상](https://user-images.githubusercontent.com/58325946/216479347-f95a0f88-dd0e-4f9d-8502-1a8d50efde0f.png)
 -   :1st_place_medal: [경기콘텐츠진흥원 & 경기문화창조허브 콘텐츠 + 제조 해커톤(메이커톤) 금상](https://user-images.githubusercontent.com/58325946/216479407-a34fe191-8fbd-4aef-b593-10a217059d02.png)
 -   :3rd_place_medal: [KINTEX 공학 페스티벌 성균관대학교 디지털 헬스케어 동상](https://user-images.githubusercontent.com/58325946/216477940-4a147f3e-c7e4-40e6-8ebc-52ff477f9ccf.png)
 -   교내 IP발명경진대회 장려상
 -   교내 학습포트폴리오 우수상
 
-### :crystal_ball: Patent :crystal_ball:
+## :crystal_ball: Patent :crystal_ball:
 - (출원번호 : 10-2022-0155909) [딥러닝 스토킹범죄방지 카메라](https://doi.org/10.8080/1020220155909)
 - (출원번호 : 10-2022-0155905) AI를 이용한 실종자/수배자 추적을 위한 객체 인식 시스템 
 
-### 🪪 License 🪪
+## 🪪 License 🪪
 - <img src="https://user-images.githubusercontent.com/58325946/215244321-3002313f-f77b-4eaa-93fa-00c671358149.png" width="20" height="20"> [Microsoft Azure AI Fundamentals AI-900 (마이크로소프트 인공지능 국제자격증)](https://user-images.githubusercontent.com/58325946/216269281-2ce36f4c-4784-4f96-add0-16fb41030f02.png)
 - [ITQ 인터넷, 파워포인트, 아래한글 A,B](https://user-images.githubusercontent.com/58325946/216268728-c7d93277-8734-40c1-be81-ca93bf0f6f45.png)
 - [대한상공회의소 워드프로세서 3급](https://user-images.githubusercontent.com/58325946/216268728-c7d93277-8734-40c1-be81-ca93bf0f6f45.png)
