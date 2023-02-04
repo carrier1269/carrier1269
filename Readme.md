@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/Server-5839ab?style=flat&logo=Private Internet Access&logoColor=coral"/></a> 🟰 
 <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat&logo=Microsoft Azure&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/></a>   
 <img src="https://img.shields.io/badge/Another-5839ab?style=flat&logo=GNOME Terminal&logoColor=coral"/></a> 🟰 
 <img src="https://img.shields.io/badge/NVIDIA Jetson-76B900?style=flat&logo=NVIDIA&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/></a> 
