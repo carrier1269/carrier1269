@@ -2,7 +2,7 @@
   
 # :lab_coat: Hi! I'm Machine Learning Engineer! :lab_coat:
 
-## :watch: Computer Skills :watch: 
+## :watch: My Computer Skills :watch: 
 |Title|Skill|
 |---|---|
 |<img src="https://img.shields.io/badge/Python-9BF0E1?style=for-the-badge&logo=&logoColor=coral"/></a>|<img src="https://img.shields.io/badge/Python3-000000?style=for-the-badge&logo=Python&logoColor=3776AB"/></a> <img src="https://img.shields.io/badge/Tensorflow-000000?style=for-the-badge&logo=TensorFlow&logoColor=FF6F00"/></a> <img src="https://img.shields.io/badge/Scikit Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/></a> <img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=OpenCV&logoColor=5C3EE8"/></a> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/></a>|
