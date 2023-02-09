@@ -41,6 +41,8 @@
 - :trophy: [캡스톤 디자인 경진대회 대상](https://user-images.githubusercontent.com/58325946/216479347-f95a0f88-dd0e-4f9d-8502-1a8d50efde0f.png)  
 - :1st_place_medal: [경기콘텐츠진흥원 & 경기문화창조허브 콘텐츠 + 제조 해커톤(메이커톤) 금상](https://user-images.githubusercontent.com/58325946/216479407-a34fe191-8fbd-4aef-b593-10a217059d02.png)  
 - :3rd_place_medal: [KINTEX 공학 페스티벌 성균관대학교 디지털 헬스케어 동상](https://user-images.githubusercontent.com/58325946/216477940-4a147f3e-c7e4-40e6-8ebc-52ff477f9ccf.png)  
+- [희망이음 경진대회 우수과제작 선정(최종결과발표 아직 X)](https://user-images.githubusercontent.com/58325946/217681446-a3d8c451-011e-4c00-b30b-2d776b4bb2ba.png)
+
 - 교내 IP발명경진대회 장려상  
 - 교내 학습포트폴리오 우수상
 </div>  
