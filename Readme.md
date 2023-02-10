@@ -60,7 +60,7 @@
 - [ITQ 인터넷, 파워포인트, 아래한글 A,B](https://user-images.githubusercontent.com/58325946/216268728-c7d93277-8734-40c1-be81-ca93bf0f6f45.png)  
 - [대한상공회의소 워드프로세서 3급](https://user-images.githubusercontent.com/58325946/216268728-c7d93277-8734-40c1-be81-ca93bf0f6f45.png)
 </div>
-
+ 
 </div>
 
 <!--
