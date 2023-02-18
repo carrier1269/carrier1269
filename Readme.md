@@ -52,7 +52,7 @@
 - (출원번호 : 10-2022-0155905) AI를 이용한 실종자/수배자 추적을 위한 객체 인식 시스템   
 </div>  
 
-## 🪪 License 🪪
+## 🪪 Certificate 🪪
 <div align="left">
   
 - <img src="https://user-images.githubusercontent.com/58325946/215244321-3002313f-f77b-4eaa-93fa-00c671358149.png" width="20" height="20"> [Microsoft Azure AI  Fundamentals AI-900 (마이크로소프트 인공지능 국제자격증)](https://user-images.githubusercontent.com/58325946/216269281-2ce36f4c-4784-4f96-add0-16fb41030f02.png)  
