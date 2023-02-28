@@ -39,6 +39,7 @@
 <div align="left">
 
 ### 2023
+- SK텔레콤 Fly AI 성실참여상
 ### 2022
 - :trophy: [캡스톤 디자인 경진대회 대상](https://user-images.githubusercontent.com/58325946/216479347-f95a0f88-dd0e-4f9d-8502-1a8d50efde0f.png)  
 - :1st_place_medal: [경기콘텐츠진흥원 & 경기문화창조허브 콘텐츠 + 제조 해커톤(메이커톤) 금상](https://user-images.githubusercontent.com/58325946/216479407-a34fe191-8fbd-4aef-b593-10a217059d02.png)  
