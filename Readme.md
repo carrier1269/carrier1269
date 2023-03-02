@@ -33,7 +33,7 @@
 |**2022**|[KINTEX 공학페스티벌 박람회 For pet 팀](https://user-images.githubusercontent.com/58325946/216480279-606f5f38-0ead-43e2-914e-90360d437953.png)|
 |**2022**|[Camera DL System For Crime Prevention(특허 공개출원)](https://doi.org/10.8080/1020220155909)|
 |**2022**|[넥슨 메이플스토리 & 멋쟁이사자처럼 슈퍼해커톤 Maplestory Worlds 기획&개발 라33 팀](https://github.com/carrier1269/Nexon_Maplestory_Hackathon)|
-|**2023**|[SK텔레콤 A.(에이닷) Best Photographed Image Of Human Face 자동합성시스템 인생네조 팀](https://github.com/seongyonglim/GG)|
+|**2023**|[SK텔레콤 A.(에이닷) Best Photographed Image Of Human Face 자동합성시스템 인생네조 팀][(https://github.com/carrier1269/SK_telecom_AI_Image_Project)]|
 
 ## 🏆 Awards 🏆
 <div align="left">
