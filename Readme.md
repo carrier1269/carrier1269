@@ -14,13 +14,13 @@
 ## 🩻 Development Experience 🩻
 |Peroid|Experience Name|
 |---|---|
-|**2023-03 ~ now**|r|
+|**2023-03 ~ now**|Auto Point Tracking Film System , 국가R&D연구원 프리랜서|
 |**2023-03 ~ now**|[Google Development Students Club 연합동아리](https://gdsc-dju.web.app/)|
 |**2022-12 ~ 2023-02**|[SK텔레콤 AI-TECHLAB FLY AI 2기](https://www.skttechacademy.com/)|
 |**2022-11**|[KINTEX 공학페스티벌 박람회 IoT 헬스케어 부스 운영 (L011)](http://www.e2festa.kr/ko/work?stp=0)|
 |**2019-03 ~ now**|[AI 학부연구생](https://github.com/chlrkdls)|
 |**2016-03 ~ 2017-03**|[청원고등학교 로봇동아리 부회장](https://cafe.naver.com/cwrt)|
-<!-- Auto Point Tracking Film System , 국가R&D연구원 프리랜서 -->
+
 ## :snowman_with_snow: Development Project :snowman_with_snow: 
 |Year|Project Name|
 |---|---|
