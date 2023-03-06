@@ -17,7 +17,7 @@
 |**2023-03 ~ now**|Posco Auto Point Tracking Film System Freelancer|
 |**2023-03 ~ now**|중소벤처기업부 국가R&D연구원|
 |**2023-03 ~ now**|GDSC 주류 AI 추천 시스템|
-|**2023-03 ~ now**|DevThanAI|
+|**2023-03 ~ now**|DevthanAI|
 |**2023-03 ~ now**|[Google Development Students Club 연합동아리](https://gdsc-dju.web.app/)|
 |**2022-12 ~ 2023-02**|[SK텔레콤 AI-TECHLAB FLY AI 2기](https://www.skttechacademy.com/)|
 |**2022-11**|[KINTEX 공학페스티벌 박람회 IoT 헬스케어 부스 운영 (L011)](http://www.e2festa.kr/ko/work?stp=0)|
