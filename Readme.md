@@ -15,7 +15,7 @@
 |Peroid|Experience Name|
 |---|---|
 |**2023-03 ~ now**|[DevthanAI NLP Project Developer](https://github.com/DevthanAI)|
-|**2023-03 ~ now**|포스코 Auto Point Tracking Film System Developer|
+|**2023-03 ~ now**|포스코 AI Auto Point Tracking Film System Developer|
 |**2023-03 ~ now**|중소벤처기업부 국가R&D연구원|
 |**2023-03 ~ now**|GDSC 주류 AI 추천 시스템 ML Developer|
 |**2023-03 ~ now**|[Google Development Students Club 연합동아리](https://gdsc-dju.web.app/)|
