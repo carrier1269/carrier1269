@@ -16,7 +16,7 @@
 |---|---|
 |**2023-03 ~ now**|[DevthanAI AI Project Developer](https://github.com/DevthanAI)|
 |**2023-03 ~ now**|포스코 AI Auto Point Tracking Film System Developer|
-|**2023-03 ~ now**|무인이동체 SW AI |
+|**2023-03 ~ now**|무인이동체 SW AI 연구원|
 |**2023-03 ~ now**|GDSC Team Blended 주류 AI 추천 시스템 Data Scientist|
 |**2023-03 ~ now**|[Google Development Students Club 연합동아리](https://gdsc-dju.web.app/)|
 |**2022-12 ~ 2023-02**|[SK텔레콤 AI-TECHLAB FLY AI 2기](https://www.skttechacademy.com/)|
