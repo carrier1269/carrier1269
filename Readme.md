@@ -16,7 +16,7 @@
 |---|---|
 |**2023-03 ~ now**|[DevthanAI AI Project Developer](https://github.com/DevthanAI)|
 |**2023-03 ~ now**|포스코 AI Auto Point Tracking Film System Developer|
-|**2023-03 ~ now**|중소벤처기업부 국가R&D연구원|
+|**2023-03 ~ now**|무인이동체 SW AI |
 |**2023-03 ~ now**|GDSC Team Blended 주류 AI 추천 시스템 Data Scientist|
 |**2023-03 ~ now**|[Google Development Students Club 연합동아리](https://gdsc-dju.web.app/)|
 |**2022-12 ~ 2023-02**|[SK텔레콤 AI-TECHLAB FLY AI 2기](https://www.skttechacademy.com/)|
@@ -55,7 +55,7 @@
 ## :crystal_ball: Patent :crystal_ball:
 <div align="left">
   
-- 단체사진 각자 잘 나온 얼굴 AI 사진 편집 서비스(진행중)
+- (출원번호 : 10-2023-0036192) 단체사진 각자 잘 나온 얼굴 AI 사진 편집 서비스(진행중)
 - (출원번호 : 10-2022-0155909) [딥러닝 스토킹범죄방지 카메라](https://doi.org/10.8080/1020220155909)  
 - (출원번호 : 10-2022-0155905) [AI를 이용한 실종자/수배자 추적을 위한 객체 인식 시스템](https://doi.org/10.8080/1020220155905)   
 - (출원번호 : 10-2023-0026421) 대중교통 이용량에 따른 인구 밀집 산출방법
