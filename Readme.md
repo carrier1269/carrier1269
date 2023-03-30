@@ -16,7 +16,7 @@
 |---|---|
 |**2023-03 ~ now**|[DevthanAI AI Project Developer](https://github.com/DevthanAI)|
 |**2023-03 ~ now**|포스코 AI Auto Point Tracking Film System Dev|
-|**2023-03 ~ now**|KT R&D 안전진단 무인이동체 드론 SW AI 연구원|
+|**2023-03 ~ now**|R&D 안전진단 무인이동체 드론 SW AI 연구원|
 |**2023-03 ~ now**|GDSC Team Blended 주류 쉐어 어플리케이션 AI Dev|
 |**2023-03 ~ now**|[Google Development Students Club 연합동아리](https://gdsc-dju.web.app/)|
 |**2022-12 ~ 2023-02**|[SK텔레콤 AI-TECHLAB FLY AI 2기](https://www.skttechacademy.com/)|
@@ -38,6 +38,7 @@
 |**2022**|[넥슨 메이플스토리 & 멋쟁이사자처럼 슈퍼해커톤 Maplestory Worlds 기획&개발 라33 팀](https://github.com/carrier1269/Nexon_Maplestory_Hackathon)|
 |**2023**|[SK텔레콤 A.(에이닷) Best Photographed Image Of Human Face 자동합성시스템 인생네조 팀](https://github.com/carrier1269/SK_telecom_AI_Image_Project)|
 |**2023**|DevthanAI Auto Translate Emotion Venting Chatbot (Private Repo)|
+|**2023**|R&D AI 무인이동체 안전진단시스템 개인프로젝트|
 
 ## 🏆 Awards 🏆
 <div align="left">
