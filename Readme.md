@@ -17,8 +17,7 @@
 |**2023-03 ~ now**|[DevthanAI AI Project Developer](https://github.com/DevthanAI)|
 |**2023-03 ~ now**|포스코 AI Auto Point Tracking Film System Dev|
 |**2023-03 ~ now**|R&D 안전진단 무인이동체 드론 SW AI 연구원|
-|**2023-03 ~ now**|GDSC Team Blended 주류 쉐어 어플리케이션 AI Dev|
-|**2023-03 ~ now**|[Google Development Students Club 연합동아리](https://gdsc-dju.web.app/)|
+|**2023-03 ~ now**|[Google Development Students Club 연합동아리 ML Dev](https://gdsc-dju.web.app/)|
 |**2022-12 ~ 2023-02**|[SK텔레콤 AI-TECHLAB FLY AI 2기](https://www.skttechacademy.com/)|
 |**2022-11**|[KINTEX 공학페스티벌 박람회 IoT 헬스케어 부스 운영 (L011)](http://www.e2festa.kr/ko/work?stp=0)|
 |**2019-03 ~ now**|[AI 학부연구생](https://github.com/chlrkdls)|
@@ -37,8 +36,11 @@
 |**2022**|[Camera DL System For Crime Prevention(특허 공개출원)](https://doi.org/10.8080/1020220155909)|
 |**2022**|[넥슨 메이플스토리 & 멋쟁이사자처럼 슈퍼해커톤 Maplestory Worlds 기획&개발 라33 팀](https://github.com/carrier1269/Nexon_Maplestory_Hackathon)|
 |**2023**|[SK텔레콤 A.(에이닷) Best Photographed Image Of Human Face 자동합성시스템 인생네조 팀](https://github.com/carrier1269/SK_telecom_AI_Image_Project)|
+|**2023**|GDSC Team Blended AI 주류 쉐어 어플리케이션 프로젝트|
 |**2023**|DevthanAI Auto Translate Emotion Venting Chatbot (Private Repo)|
-|**2023**|[R&D AI 무인이동체 안전진단시스템 개인프로젝트](https://github.com/carrier1269/AI_Construction_Safety_Drone.git)|
+|**2023**|[R&D AI 무인이동체 안전진단시스템 제작 및 연구 프로젝트](https://github.com/carrier1269/AI_Construction_Safety_Drone.git)|
+
+
 
 ## 🏆 Awards 🏆
 <div align="left">
