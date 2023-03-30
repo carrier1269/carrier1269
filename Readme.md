@@ -37,7 +37,7 @@
 |**2022**|[넥슨 메이플스토리 & 멋쟁이사자처럼 슈퍼해커톤 Maplestory Worlds 기획&개발 라33 팀](https://github.com/carrier1269/Nexon_Maplestory_Hackathon)|
 |**2023**|[SK텔레콤 A.(에이닷) Best Photographed Image Of Human Face 자동합성시스템 인생네조 팀](https://github.com/carrier1269/SK_telecom_AI_Image_Project)|
 |**2023**|GDSC Team Blended AI 주류 쉐어 어플리케이션 프로젝트|
-|**2023**|DevthanAI Auto Translate Emotion Venting Chatbot (Private Repo)|
+|**2023**|[DevthanAI Auto Translate Emotion Venting Chatbot (Private Repo)](https://github.com/DevthanAI/VenterBack.git)|
 |**2023**|[R&D AI 무인이동체 안전진단시스템 제작 및 연구 프로젝트](https://github.com/carrier1269/AI_Construction_Safety_Drone.git)|
 
 
