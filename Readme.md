@@ -3,12 +3,12 @@
 # :lab_coat: Hi! I'm Machine Learning Engineer! :lab_coat:
 ### My Portfolio Web Site - https://carrier1269.github.io/
 
-##현재 업무중
-###DevthanAI Venter 챗봇
-###KT R&D 드론 SW AI 연구개발
-###캡스톤 드론 건축물 그림추천 & AR(증강현실) to the 빔 프로젝터(미디어파사드) AI 연구개발
-###GDSC AI 주류추천 서비스
-###Dacon 도배하자 AI 경진대회
+## 현재 업무중
+### DevthanAI Venter 챗봇
+### KT R&D 드론 SW AI 연구개발
+### 캡스톤 드론 건축물 그림추천 & AR(증강현실) to the 빔 프로젝터(미디어파사드) AI 연구개발
+### GDSC AI 주류추천 서비스
+### Dacon 도배하자 AI 경진대회
 
 ## :watch: My Computer Skills :watch: 
 |Title|Skill|
