@@ -15,7 +15,7 @@
 |Peroid|Experience Name|
 |---|---|
 |**2023-03 ~ now**|[DevthanAI AI Project Developer](https://github.com/DevthanAI)|
-|**2023-03 ~ now**|R&D 안전진단 무인이동체 드론 SW AI 연구원|
+|**2023-03 ~ now**|KT R&D 드론 SW AI 연구원|
 |**2023-03 ~ now**|[Google Development Students Club 연합동아리 ML 포지션](https://gdsc-dju.web.app/)|
 |**2022-12 ~ 2023-02**|[SK텔레콤 AI-TECHLAB FLY AI 2기](https://www.skttechacademy.com/)|
 |**2022-11**|[KINTEX 공학페스티벌 박람회 IoT 헬스케어 부스 운영 (L011)](http://www.e2festa.kr/ko/work?stp=0)|
