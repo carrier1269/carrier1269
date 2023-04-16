@@ -4,7 +4,6 @@
 ### My Portfolio Web Site - https://carrier1269.github.io/
 
 ## 현재 업무중
-### DevthanAI Venter 챗봇
 ### KT R&D 드론 SW AI 연구개발
 ### 캡스톤 드론 건축물 그림추천 & AR(증강현실) to the 빔 프로젝터(미디어파사드) AI 연구개발
 ### GDSC 위스키 AI 정보제공 서비스
