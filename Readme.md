@@ -1,7 +1,10 @@
 <div align="center">
 
 # :lab_coat: Hi! I'm Machine Learning Engineer! :lab_coat:
-### My Portfolio Web Site - https://carrier1269.github.io/
+### <img src="https://user-images.githubusercontent.com/58325946/233847406-a90d1133-c8c0-441a-bb35-9bf408124af0.png" width="50" height="50"> 
+
+  <img src="https://user-images.githubusercontent.com/58325946/233847292-34c0f213-c63f-48f6-b08d-ed15e6bfa6cf.png" width="200" height="200">
+  
 ## :watch: My Computer Skills :watch: 
 |Title|Skill|
 |---|---|
