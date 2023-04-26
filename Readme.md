@@ -18,7 +18,7 @@
 |Peroid|Experience Name|
 |---|---|
 |**2023-03 ~ now**|[DevthanAI AI Project Developer](https://github.com/DevthanAI)|
-|**2023-03 ~ now**|KT R&D 드론 SW AI 연구원|
+|**2023-03 ~ now**|R&D 드론 SW AI 연구원|
 |**2023-03 ~ now**|[Google Development Students Club 연합동아리 ML 포지션](https://gdsc-dju.web.app/)|
 |**2022-12 ~ 2023-02**|[SK텔레콤 AI-TECHLAB FLY AI 2기](https://www.skttechacademy.com/)|
 |**2022-11**|[KINTEX 공학페스티벌 박람회 IoT 헬스케어 부스 운영 (L011)](http://www.e2festa.kr/ko/work?stp=0)|
@@ -42,7 +42,7 @@
 |**2023**|[SK텔레콤 A.(에이닷) Best Photographed Image Of Human Face 자동합성시스템 인생네조 팀](https://github.com/carrier1269/SK_telecom_AI_Image_Project)|
 |**2023**|GDSC Team Blended AI 주류 쉐어 어플리케이션 프로젝트|
 |**2023**|[DevthanAI Auto Translate Emotion Venting Chatbot (Private Repo)](https://github.com/DevthanAI/VenterBack.git)|
-|**2023**|[R&D AI 무인이동체 안전진단시스템 제작 및 연구 프로젝트](https://github.com/carrier1269/AI_Construction_Safety_Drone.git)|
+<!-- |**2023**|[R&D AI 무인이동체 안전진단시스템 제작 및 연구 프로젝트](https://github.com/carrier1269/AI_Construction_Safety_Drone.git)| -->
 
 
 
