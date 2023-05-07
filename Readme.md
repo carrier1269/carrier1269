@@ -1,11 +1,11 @@
 <div align="center">
 
 # :lab_coat: Hi! I'm Machine Learning Engineer! :lab_coat:
-### <img src="https://user-images.githubusercontent.com/58325946/233847406-a90d1133-c8c0-441a-bb35-9bf408124af0.png" width="50" height="50"> 
+<!-- ### <img src="https://user-images.githubusercontent.com/58325946/233847406-a90d1133-c8c0-441a-bb35-9bf408124af0.png" width="50" height="50">  -->
 
   <img src="https://user-images.githubusercontent.com/58325946/233847292-34c0f213-c63f-48f6-b08d-ed15e6bfa6cf.png" width="200" height="200">
   
-## :watch: My Computer Skills :watch: 
+<!-- ## :watch: My Computer Skills :watch:  -->
 |Title|Skill|
 |---|---|
 |<img src="https://img.shields.io/badge/Python-9BF0E1?style=for-the-badge&logo=&logoColor=coral"/></a>|<img src="https://img.shields.io/badge/Python3-000000?style=for-the-badge&logo=Python&logoColor=3776AB"/></a> <img src="https://img.shields.io/badge/Tensorflow-000000?style=for-the-badge&logo=TensorFlow&logoColor=FF6F00"/></a> <img src="https://img.shields.io/badge/Scikit Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=F7931E"/></a> <img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=OpenCV&logoColor=5C3EE8"/></a> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/></a>|
@@ -13,70 +13,6 @@
 |<img src="https://img.shields.io/badge/Else-9BF0E1?style=for-the-badge&logo=&logoColor=coral"/></a>|<img src="https://img.shields.io/badge/NVIDIA Jetson-000000?style=for-the-badge&logo=NVIDIA&logoColor=76B900"/></a> <img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=Ubuntu&logoColor=E95420"/></a> <img src="https://img.shields.io/badge/IoT-000000?style=for-the-badge&logo=Probot&logoColor=00B0D8"/></a> <img src="https://img.shields.io/badge/Catia V5 R20-000000?style=for-the-badge&logo=Dassault Systèmes&logoColor=005386"/></a> <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=F05032"/></a>|
 
 <!-- <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker&logoColor=2496ED"/></a> -->
-
-## 🩻 Development Experience 🩻
-|Peroid|Experience Name|
-|---|---|
-|**2023-03 ~ now**|[DevthanAI AI Project Developer](https://github.com/DevthanAI)|
-|**2023-03 ~ now**|R&D 드론 SW AI 연구원|
-|**2023-03 ~ now**|[Google Development Students Club 연합동아리 ML 포지션](https://gdsc-dju.web.app/)|
-|**2022-12 ~ 2023-02**|[SK텔레콤 AI-TECHLAB FLY AI 2기](https://www.skttechacademy.com/)|
-|**2022-11**|[KINTEX 공학페스티벌 박람회 IoT 헬스케어 부스 운영 (L011)](http://www.e2festa.kr/ko/work?stp=0)|
-|**2019-03 ~ now**|[AI 학부연구생](https://github.com/chlrkdls)|
-|**2016-03 ~ 2017-03**|[청원고등학교 로봇동아리 부회장](https://cafe.naver.com/cwrt)|
-
-<!-- |**2023-03 ~ now**|포스코 AI Auto Point Tracking Film System Dev| -->
-
-## :snowman_with_snow: Development Project :snowman_with_snow: 
-|Year|Project Name|
-|---|---|
-|**2015**|[WRO 월드 로봇 올림피아드 Gear 팀](https://www.wro2022.org/)|
-|**2015**|[FLL 로봇챔피언십 Gear 팀](https://www.firstinspires.org/robotics/fll)|
-|**2016**|[WRO 월드 로봇 올림피아드 Gear 팀](https://www.wro2022.org/)|
-|**2016**|[KRC 코리아로봇챔피언십 Gear 팀](http://www.fest.or.kr/119)|
-|**2022**|[경기콘텐츠진흥원 & 경기문화창조허브 콘텐츠 제조 해커톤(메이커톤) LOCK 퓨전 팀](https://github.com/carrier1269/gyro_Bicycle_Locker.git)|
-|**2022**|[교내 캡스톤 디자인 경진대회 For pet 팀](https://github.com/carrier1269/KINTEX_iot_cat_tower)|
-|**2022**|[KINTEX 공학페스티벌 박람회 For pet 팀](https://user-images.githubusercontent.com/58325946/216480279-606f5f38-0ead-43e2-914e-90360d437953.png)|
-|**2022**|[Camera DL System For Crime Prevention (특허 공개출원)](https://doi.org/10.8080/1020220155909)|
-|**2022**|[넥슨 메이플스토리 & 멋쟁이사자처럼 슈퍼해커톤 Maplestory Worlds 기획&개발 라33 팀](https://github.com/carrier1269/Nexon_Maplestory_Hackathon)|
-|**2023**|[SK텔레콤 A.(에이닷) Best Photographed Image Of Human Face 자동합성시스템 인생네조 팀](https://github.com/carrier1269/SK_telecom_AI_Image_Project)|
-|**2023**|GDSC Team Blended AI 주류 쉐어 어플리케이션 프로젝트|
-|**2023**|[DevthanAI Auto Translate Emotion Venting Chatbot (Private Repo)](https://github.com/DevthanAI/VenterBack.git)|
-<!-- |**2023**|[R&D AI 무인이동체 안전진단시스템 제작 및 연구 프로젝트](https://github.com/carrier1269/AI_Construction_Safety_Drone.git)| -->
-
-
-
-## 🏆 Awards 🏆
-<div align="left">
-
-
-### 2023
-- [SK텔레콤 Fly AI 2기 개인부문 성실참여상](https://user-images.githubusercontent.com/58325946/222317136-4ae377eb-b255-4044-81bc-d10ae2cd038a.png)
-### 2022
-- :trophy: [캡스톤 디자인 경진대회 대상](https://user-images.githubusercontent.com/58325946/216479347-f95a0f88-dd0e-4f9d-8502-1a8d50efde0f.png)  
-- :1st_place_medal: [경기콘텐츠진흥원 & 경기문화창조허브 콘텐츠 + 제조 해커톤(메이커톤) 금상](https://user-images.githubusercontent.com/58325946/216479407-a34fe191-8fbd-4aef-b593-10a217059d02.png)  
-- :3rd_place_medal: [KINTEX 공학 페스티벌 성균관대학교 디지털 헬스케어 동상](https://user-images.githubusercontent.com/58325946/216477940-4a147f3e-c7e4-40e6-8ebc-52ff477f9ccf.png)  
-- 교내 IP발명경진대회 장려상  
-- 교내 학습포트폴리오 우수상
-</div>  
-
-## :crystal_ball: Patent :crystal_ball:
-<div align="left">
-  
-- (출원번호 : 10-2023-0036192) 단체사진 각자 잘 나온 얼굴 AI 사진 편집 서비스
-- (출원번호 : 10-2022-0155909) [딥러닝 스토킹범죄방지 카메라](https://doi.org/10.8080/1020220155909)  
-- (출원번호 : 10-2022-0155905) [AI를 이용한 실종자/수배자 추적을 위한 객체 인식 시스템](https://doi.org/10.8080/1020220155905)   
-- (출원번호 : 10-2023-0026421) 대중교통 이용량에 따른 인구 밀집 산출방법
-</div>  
-
-## 🪪 Certificate 🪪
-<div align="left">
-  
-- <img src="https://user-images.githubusercontent.com/58325946/215244321-3002313f-f77b-4eaa-93fa-00c671358149.png" width="20" height="20"> [Microsoft Azure AI  Fundamentals AI-900 (마이크로소프트 인공지능 국제자격증)](https://user-images.githubusercontent.com/58325946/216269281-2ce36f4c-4784-4f96-add0-16fb41030f02.png)  
-- [ITQ 인터넷, 파워포인트, 아래한글 A,B](https://user-images.githubusercontent.com/58325946/216268728-c7d93277-8734-40c1-be81-ca93bf0f6f45.png)  
-- [대한상공회의소 워드프로세서 3급](https://user-images.githubusercontent.com/58325946/216268728-c7d93277-8734-40c1-be81-ca93bf0f6f45.png)
-- OPIC IH(할 예정)
-</div>
  
 </div>
 
