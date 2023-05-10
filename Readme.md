@@ -16,7 +16,6 @@
 <!-- <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker&logoColor=2496ED"/></a> -->
 
 ## 할일
-### 오픽 점수 확인하기 5/10
 ### ~~주류AI 배경제거 만들기~~
 ### 캡스톤 디자인 재료비 청구하기
 ### 드론 VPS 연구
