@@ -16,13 +16,13 @@
 <!-- <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker&logoColor=2496ED"/></a> -->
 
 ## 할일
-### ~~주류AI 배경제거 만들기~~
-### 캡스톤 디자인 재료비 청구하기
-### 드론 VPS 연구
-### 파이썬 자료구조 공부
 ### SQL 공부 & 코테 공부
 ### CS 공부
 ### 데이터 분석 공부
+
+### ~~주류AI 배경제거 만들기~~
+### 캡스톤 디자인 재료비 청구하기
+### 드론 VPS 연구
  
 </div>
 
