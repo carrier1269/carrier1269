@@ -14,18 +14,6 @@
 |<img src="https://img.shields.io/badge/Else-9BF0E1?style=for-the-badge&logo=&logoColor=coral"/></a>|<img src="https://img.shields.io/badge/NVIDIA Jetson-000000?style=for-the-badge&logo=NVIDIA&logoColor=76B900"/></a> <img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=Ubuntu&logoColor=E95420"/></a> <img src="https://img.shields.io/badge/IoT-000000?style=for-the-badge&logo=Probot&logoColor=00B0D8"/></a> <img src="https://img.shields.io/badge/Catia V5 R20-000000?style=for-the-badge&logo=Dassault Systèmes&logoColor=005386"/></a> <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=F05032"/></a>|
 
 <!-- <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker&logoColor=2496ED"/></a> -->
-
-## 할일
-### SQL 공부 & 코테 공부
-### CS 공부
-### 데이터 분석 공부
-
-### ~~주류AI 배경제거 만들기~~
-### 캡스톤 디자인 재료비 청구하기
-### 드론 VPS 연구
- 
-</div>
-
 <!--
 **carrier1269/carrier1269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
