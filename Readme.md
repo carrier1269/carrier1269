@@ -14,11 +14,11 @@
 |<img src="https://img.shields.io/badge/Communication Tool-9BF0E1?style=for-the-badge&logo=&logoColor=coral"/></a>|<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=F05032"/></a> <img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=Jira Software&logoColor=0052CC"/></a> <img src="https://img.shields.io/badge/Slack-000000?style=for-the-badge&logo=Slack&logoColor=9BF0E1"/></a>|
 |<img src="https://img.shields.io/badge/Workspace OS-9BF0E1?style=for-the-badge&logo=&logoColor=coral"/></a>|<img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=Ubuntu&logoColor=E95420"/></a>|
 
-<img src="https://img.shields.io/badge/Kakao Karlo-000000?style=for-the-badge&logo=Kakao&logoColor=FFCD00"/></a>
-<img src="https://img.shields.io/badge/Bash Shell-000000?style=for-the-badge&logo=PowerShell&logoColor=5391FE"/></a>
-<img src="https://img.shields.io/badge/Yolov5-000000?style=for-the-badge&logo=YOLO&logoColor=00FFFF"/></a>
-<img src="https://img.shields.io/badge/Google STT-000000?style=for-the-badge&logo=Google Cloud&logoColor=4285F4"/></a>
-<img src="https://img.shields.io/badge/PixHawk4 Hexa Drone-000000?style=for-the-badge&logo=Robot Framework&logoColor"/></a>
+<!-- <img src="https://img.shields.io/badge/Kakao Karlo-000000?style=for-the-badge&logo=Kakao&logoColor=FFCD00"/></a> -->
+<!-- <img src="https://img.shields.io/badge/Bash Shell-000000?style=for-the-badge&logo=PowerShell&logoColor=5391FE"/></a> -->
+<!-- <img src="https://img.shields.io/badge/Yolov5-000000?style=for-the-badge&logo=YOLO&logoColor=00FFFF"/></a> -->
+<!-- <img src="https://img.shields.io/badge/Google STT-000000?style=for-the-badge&logo=Google Cloud&logoColor=4285F4"/></a> -->
+<!-- <img src="https://img.shields.io/badge/PixHawk4 Hexa Drone-000000?style=for-the-badge&logo=Robot Framework&logoColor"/></a> -->
 
 <!-- <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker&logoColor=2496ED"/></a> -->
 <!-- |<img src="https://img.shields.io/badge/Database-9BF0E1?style=for-the-badge&logo=&logoColor=coral"/></a>|<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=white"/></a>| -->
