@@ -8,7 +8,7 @@
 <!-- ## :watch: My Computer Skills :watch:  -->
 |Title|Skill|
 |---|---|
-|<img src="https://img.shields.io/badge/Language-9BF0E1?style=for-the-badge&logo=&logoColor=coral"/></a>|<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=3776AB"/></a> <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=3776AB"/></a> <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/></a> <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=A8B9CC"/></a> <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=E34F26"/></a> <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6"/></a>|
+|<img src="https://img.shields.io/badge/Language-9BF0E1?style=for-the-badge&logo=&logoColor=coral"/></a>|<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=3776AB"/></a> <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=3776AB"/></a> <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/></a> <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=A8B9CC"/></a>|
 |<img src="https://img.shields.io/badge/Backend Tool-9BF0E1?style=for-the-badge&logo=&logoColor=coral"/></a>|<img src="https://img.shields.io/badge/Java Spring-000000?style=for-the-badge&logo=Spring&logoColor=6DB33F"/></a> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/></a> <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman&logoColor=FF6C37"/></a>|
 |<img src="https://img.shields.io/badge/Cloud Service-9BF0E1?style=for-the-badge&logo=&logoColor=coral"/></a>|<img src="https://img.shields.io/badge/Amazon AWS-000000?style=for-the-badge&logo=Amazon AWS&logoColor=white"/></a>|
 |<img src="https://img.shields.io/badge/Communication Tool-9BF0E1?style=for-the-badge&logo=&logoColor=coral"/></a>|<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=F05032"/></a> <img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=Jira Software&logoColor=0052CC"/></a> <img src="https://img.shields.io/badge/Slack-000000?style=for-the-badge&logo=Slack&logoColor=9BF0E1"/></a>|
@@ -19,6 +19,8 @@
 <!-- <img src="https://img.shields.io/badge/Yolov5-000000?style=for-the-badge&logo=YOLO&logoColor=00FFFF"/></a> -->
 <!-- <img src="https://img.shields.io/badge/Google STT-000000?style=for-the-badge&logo=Google Cloud&logoColor=4285F4"/></a> -->
 <!-- <img src="https://img.shields.io/badge/PixHawk4 Hexa Drone-000000?style=for-the-badge&logo=Robot Framework&logoColor"/></a> -->
+
+<!-- <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=E34F26"/></a> <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6"/></a> -->
 
 <!-- <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker&logoColor=2496ED"/></a> -->
 <!-- |<img src="https://img.shields.io/badge/Database-9BF0E1?style=for-the-badge&logo=&logoColor=coral"/></a>|<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=white"/></a>| -->
