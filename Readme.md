@@ -3,8 +3,8 @@
 # :lab_coat:  Backend Developer :lab_coat:
 ! 백준 플래티넘 찍기 !
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={chlrkdls1269})](https://solved.ac/{chlrkdls1269})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlrkdls1269)](https://solved.ac/chlrkdls1269)
+
 <!-- ### <img src="https://user-images.githubusercontent.com/58325946/233847406-a90d1133-c8c0-441a-bb35-9bf408124af0.png" width="50" height="50">  -->
 
   <img src="https://user-images.githubusercontent.com/58325946/233847292-34c0f213-c63f-48f6-b08d-ed15e6bfa6cf.png" width="200" height="200">
