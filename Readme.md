@@ -1,7 +1,10 @@
 <div align="center">
 
 # :lab_coat:  Backend Developer :lab_coat:
-! 백준 플래티넘 찍기 !
+SKT FLY AI 2기
+MCI 22 넥슨 메이플스토리 슈퍼해커톤
+2022 KINTEX 공학 페스티벌
+Google Developer Student Club 2기
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlrkdls1269)](https://solved.ac/chlrkdls1269)
 
