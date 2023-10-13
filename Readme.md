@@ -1,7 +1,7 @@
 <div align="center">
 
 # :lab_coat:  Backend Developer :lab_coat:
-
+#### Bae/<Joon/> start date 2023/09/04 ~
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlrkdls1269)](https://solved.ac/chlrkdls1269)
 
 <!-- ### <img src="https://user-images.githubusercontent.com/58325946/233847406-a90d1133-c8c0-441a-bb35-9bf408124af0.png" width="50" height="50">  -->
