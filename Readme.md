@@ -1,7 +1,8 @@
 <div align="center">
 
 # :lab_coat:  Backend Developer :lab_coat:
-#### BaekJoon/> start date 2023/09/04 ~
+
+#### BaekJoon start date 2023/09/04 
 ![chlrkdls1269's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=chlrkdls1269)
 
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlrkdls1269)](https://solved.ac/chlrkdls1269) -->
