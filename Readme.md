@@ -2,12 +2,11 @@
 
 # :lab_coat:  Backend Developer :lab_coat:
 #### BaekJoon/> start date 2023/09/04 ~
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlrkdls1269)](https://solved.ac/chlrkdls1269)
+![chlrkdls1269's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=chlrkdls1269)
+
+<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlrkdls1269)](https://solved.ac/chlrkdls1269) -->
 
 <!-- ### <img src="https://user-images.githubusercontent.com/58325946/233847406-a90d1133-c8c0-441a-bb35-9bf408124af0.png" width="50" height="50">  -->
-
-  <img src="https://user-images.githubusercontent.com/58325946/233847292-34c0f213-c63f-48f6-b08d-ed15e6bfa6cf.png" width="200" height="200">
-
 
 <!-- ## :watch: My Computer Skills :watch:  -->
 |Title|Skill|
@@ -29,6 +28,10 @@
 
 <!-- <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker&logoColor=2496ED"/></a> -->
 <!-- |<img src="https://img.shields.io/badge/Database-9BF0E1?style=for-the-badge&logo=&logoColor=coral"/></a>|<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=white"/></a>| -->
+
+<img src="https://user-images.githubusercontent.com/58325946/233847292-34c0f213-c63f-48f6-b08d-ed15e6bfa6cf.png" width="200" height="200">
+
+  
 <!--
 **carrier1269/carrier1269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
