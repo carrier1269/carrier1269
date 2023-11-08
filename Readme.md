@@ -29,11 +29,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/58325946/233847292-34c0f213-c63f-48f6-b08d-ed15e6bfa6cf.png" width="200" height="200"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrier1269&layout=compact)
-
-[![carrier1269's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carrier1269)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<img src="https://user-images.githubusercontent.com/58325946/233847292-34c0f213-c63f-48f6-b08d-ed15e6bfa6cf.png" width="200" height="200"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrier1269&layout=compact&langs_count=8)
 <!--
 **carrier1269/carrier1269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
