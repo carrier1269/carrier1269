@@ -1,6 +1,7 @@
 <div align="center">
 
-![image](https://github.com/carrier1269/carrier1269/assets/58325946/062a5cdb-13d9-4fe5-85e2-fedcfc24d9cc)
+<img src="https://github.com/carrier1269/carrier1269/assets/58325946/062a5cdb-13d9-4fe5-85e2-fedcfc24d9cc" align="center"/>
+
    
 ![chlrkdls1269's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=chlrkdls1269)
 
