@@ -1,4 +1,6 @@
 <div align="center">
+
+![image](https://github.com/carrier1269/carrier1269/assets/58325946/062a5cdb-13d9-4fe5-85e2-fedcfc24d9cc)
    
 ![chlrkdls1269's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=chlrkdls1269)
 
@@ -9,6 +11,8 @@
 <img src="https://user-images.githubusercontent.com/58325946/233847292-34c0f213-c63f-48f6-b08d-ed15e6bfa6cf.png" width="200" height="200"><img src="" width="100" height="1">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrier1269&layout=compact&langs_count=8)
 
 <!-- ## :watch: My Computer Skills :watch:  -->
+
+<!--
 |Title|Skill|
 |---|---|
 |<img src="https://img.shields.io/badge/Language-9BF0E1?style=for-the-badge&logo=&logoColor=coral"/></a>|<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=3776AB"/></a> <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=Java&logoColor=3776AB"/></a> <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript&logoColor=F7DF1E"/></a> <img src="https://img.shields.io/badge/Csharp-000000?style=for-the-badge&logo=csharp&logoColor=3CBDB1"/></a> <img src="https://img.shields.io/badge/Html-000000?style=for-the-badge&logo=HTML5&logoColor=E34F26"/></a> <img src="https://img.shields.io/badge/Css-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6"/></a>|
@@ -17,6 +21,8 @@
 |<img src="https://img.shields.io/badge/Database-9BF0E1?style=for-the-badge&logo=&logoColor=coral"/></a>|<img src="https://img.shields.io/badge/oracle enterprise 11-000000?style=for-the-badge&logo=oracle&logoColor=F80000"/></a> <img src="https://img.shields.io/badge/Maria DB-000000?style=for-the-badge&logo=MariaDB Foundation&logoColor=white"/></a>|
 |<img src="https://img.shields.io/badge/DevOps-9BF0E1?style=for-the-badge&logo=&logoColor=coral"/></a>|<img src="https://img.shields.io/badge/Amazon AWS S3-000000?style=for-the-badge&logo=Amazon AWS&logoColor=white"/></a> <img src="https://img.shields.io/badge/Amazon AWS EC2-000000?style=for-the-badge&logo=Amazon EC2&logoColor=F46D01"/></a> <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker&logoColor=2496ED"/></a>|
 |<img src="https://img.shields.io/badge/Tool-9BF0E1?style=for-the-badge&logo=&logoColor=coral"/></a>|<img src="https://img.shields.io/badge/Intellij Ultimate-000000?style=for-the-badge&logo=intellijidea&logoColor=#000000"/></a> <img src="https://img.shields.io/badge/Visual Studio Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/></a> <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=F05032"/></a> <br><img src="https://img.shields.io/badge/Eclipse IDE, Spring Eclipse IDE, Egov Eclipse IDE-000000?style=for-the-badge&logo=Eclipse IDE&logoColor=9999FF"/></a>|
+
+-->
 
 <!-- <img src="https://img.shields.io/badge/Lua Script-000000?style=for-the-badge&logo=Lua&logoColor=FFFFFF"/></a> <img src="https://img.shields.io/badge/C / C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C"/></a> -->
 
