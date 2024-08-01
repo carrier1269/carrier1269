@@ -11,7 +11,7 @@
 
 <!-- <img src="https://user-images.githubusercontent.com/58325946/233847292-34c0f213-c63f-48f6-b08d-ed15e6bfa6cf.png" width="200" height="200"><img src="" width="100" height="1">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carrier1269&layout=compact&langs_count=8) -->
 
-[![텍스트](https://cdn.icon-icons.com/icons2/602/PNG/512/LinkedIn_icon-icons.com_55877.png)](https://www.linkedin.com/in/chlrkdls1269/)
+<!-- [![텍스트](https://cdn.icon-icons.com/icons2/602/PNG/512/LinkedIn_icon-icons.com_55877.png)](https://www.linkedin.com/in/chlrkdls1269/) -->
 
 <!-- ## :watch: My Computer Skills :watch:  -->
 
