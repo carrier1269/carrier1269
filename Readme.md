@@ -3,7 +3,7 @@
 <!-- <img src="https://github.com/carrier1269/carrier1269/assets/58325946/aa1a446a-fd0b-408e-85e9-3e2c2a01b4f0" text-align="center"/> -->
 
    
-![chlrkdls1269's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=chlrkdls1269)
+<-- ![chlrkdls1269's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=chlrkdls1269) -->
 
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlrkdls1269)](https://solved.ac/chlrkdls1269) -->
 
