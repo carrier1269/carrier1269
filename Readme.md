@@ -1,19 +1,4 @@
 
-__SKILLS__
-### Language
-- Python, Java, JavaScript, Html, CSS
-   
-### F/E
-- Vue.js, React Native, Java Script, Html, CSS
-
-### B/E
-- Node.js Express, Java Spring, Python FastApi, Python Flask
-
-### DevOps
-- AWS EC2, Docker, Kubernetes
-
-### DB
-- AWS S3, Redis, MongoDB, MariaDB, PostgreDB
 
 <!-- <img src="https://github.com/carrier1269/carrier1269/assets/58325946/aa1a446a-fd0b-408e-85e9-3e2c2a01b4f0" text-align="center"/> -->
 
