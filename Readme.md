@@ -4,7 +4,7 @@
 
 ## 💻 Work Project
 > <img src="https://github.com/user-attachments/assets/22a46572-51fc-48e8-81bc-d604eb8c4b54" width="80" height="80"/><br>
-> ##### 삼성전자 DX 웹 개발 및 운영 - Full Stack Developer ( 2024.04.01 ~ ing , 수원 삼성 디지털시티 삼성전자 DX 생산기술연구소 )
+> ##### 삼성전자 DX 웹 개발 및 운영 - Full Stack Developer ( 2024.04.01 ~ ing , 수원 삼성 Digital City 삼성전자 DX 생산기술연구소 )
 
 ## :mortar_board: Education
 > <img src="https://github.com/user-attachments/assets/40f166b7-0b7d-448d-a056-bd150d1be2af" width="80" height="80"/><br>
