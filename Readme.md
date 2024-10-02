@@ -9,7 +9,7 @@
 ## :mortar_board: Education
 > <img src="https://github.com/user-attachments/assets/40f166b7-0b7d-448d-a056-bd150d1be2af" width="80" height="80"/><br>
 > 
-> ##### SK Telecom FLY AI 2기 ( 2022.12 ~ 2023.02, SK텔레콤 보라매사옥, SK텔레콤 인재개발원, SK T타워(본사) )
+> ##### SK Telecom FLY AI 2기 ( 2022.12 ~ 2023.02, SK텔레콤 보라매사옥 AI TECH LAB, SK텔레콤 인재개발원, SK T타워(본사) )
 >
 > <img src="https://github.com/user-attachments/assets/8d2d4fbe-56bf-4ace-81d0-3bfc572dd9c7" width="80" height="80"/><br>
 > ##### Google Developer Students Club ( 2023.03 ~ 2024.01 )
