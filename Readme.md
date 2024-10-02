@@ -1,48 +1,21 @@
-## 🔭 Career
+## :bank: Career
+> <img src="https://github.com/user-attachments/assets/fcc8fb04-a57d-48ac-ab8a-8999ae0cd9f2" width="180" height="55" style="margin-bottom: -50px;"/><br>
+> ##### 메타넷디지털 - Full Stack Developer ( 2024.02.01 ~ ing )
 
-> #### *?* - ?
-> - ?
->   - ?
-> - 기술 스택
->     - ?
+## 💻 Work Project
+> <img src="https://github.com/user-attachments/assets/22a46572-51fc-48e8-81bc-d604eb8c4b54" width="80" height="80"/><br>
+> ##### 삼성전자 DX 웹 개발 및 운영 - Full Stack Developer ( 2024.04.01 ~ ing , 수원 삼성 디지털시티 삼성전자 DX 생산기술연구소 )
 
-## 🗂️ Toy Project (토이 프로젝트)
-
-#### 📱 ?
->
-> ##### 간략소개 : ?
-> - ?
-> - ?
-> - ?
+## :mortar_board: Education
+> <img src="https://github.com/user-attachments/assets/40f166b7-0b7d-448d-a056-bd150d1be2af" width="80" height="80"/><br>
 > 
-> ##### 📆 기간 : ?
+> ##### SK Telecom FLY AI 2기 ( 2022.12 ~ 2023.02 )
 >
-> ##### 😀 참여자 : <a href="https://github.com/carrier1269">?<a>
->
-> ##### 담당업무 : [백엔드/프론트엔드] ?
+> <img src="https://github.com/user-attachments/assets/8d2d4fbe-56bf-4ace-81d0-3bfc572dd9c7" width="80" height="80"/><br>
+> ##### Google Developer Students Club ( 2023.03 ~ 2024.01 )
 > 
-> ##### GitHub - Repository ▶  ?
-
-## 🗂️ Team Project (팀 프로젝트)
-
-#### 📱 ?
-> 
-> ##### ?
-> 
-> ##### 📆 기간 : ?
->
-> ##### 😀 참여자 : ?
->
-> ##### 담당업무 : ?
->  
-> ##### GitHub - Repository ▶  ?
-
-
-## 🏅 Certificate (자격증)
-
-> #### ?
->
-> 📆 취득일 : ?
+> <img src="https://github.com/user-attachments/assets/7260405c-8176-4a65-b0d5-3774935d8276" width="180" height="100"/><br>
+> ##### 백준 골드
 
 
 <!--
