@@ -1,4 +1,4 @@
-## :bank: Career
+<!-- ## :bank: Career
 > <img src="https://github.com/user-attachments/assets/fcc8fb04-a57d-48ac-ab8a-8999ae0cd9f2" width="180" height="55" style="margin-bottom: -50px;"/><br>
 > ##### 메타넷디지털 - Full Stack Developer ( 2024.02.01 ~ ing )
 
@@ -15,7 +15,7 @@
 > ##### Google Developer Students Club ( 2023.03 ~ 2024.01 )
 > 
 > <img src="https://github.com/user-attachments/assets/7260405c-8176-4a65-b0d5-3774935d8276" width="180" height="100"/><br>
-> ##### 백준 골드
+> ##### 백준 골드 -->
 
 
 <!--
