@@ -1,5 +1,7 @@
 삼성전자 DX Meta Factory 시스템 개발 및 운영 ( 2024.04.01 ~ ing )
 
+![chlrkdls1269's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=chlrkdls1269)
+
 <!-- ## :bank: Career
 > <img src="https://github.com/user-attachments/assets/fcc8fb04-a57d-48ac-ab8a-8999ae0cd9f2" width="180" height="55" style="margin-bottom: -50px;"/><br>
 > ##### 메타넷디지털 - Full Stack Developer ( 2024.02.01 ~ ing )
