@@ -1,4 +1,4 @@
-삼성전자 DX Meta Factory 시스템 개발 및 운영 ( 2024.04.01 ~ ing )
+<!-- 삼성전자 DX Meta Factory 시스템 개발 및 운영 ( 2024.04.01 ~ ing ) -->
 
 ![chlrkdls1269's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=chlrkdls1269)
 
